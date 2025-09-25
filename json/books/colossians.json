@@ -1,0 +1,1119 @@
+{
+  "book": "Colossians",
+  "language": "Greek",
+  "rendering": "2025 American English",
+  "config": {
+    "divine_name": null,
+    "proper_names": "standard",
+    "reading_level": null
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "παυλοϲ αποϲτολοϲ χυ  ιυ  δια θεληματοϲ θυ  και τιμοθεοϲ ο αδελφοϲ",
+          "translation": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "τοιϲ εν κολοϲϲαιϲ αγιοιϲ και πιϲτοιϲ αδελφοιϲ εν χω  χαριϲ ϋμιν και ειρηνη απο θυ  πρϲ ημων και κυ  ιυ  χυ ",
+          "translation": "To the saints and faithful brothers and sisters in Christ at Colossae: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "και κυ  ιυ  χυ ",
+              "note": "Some manuscripts omit 'and the Lord Jesus Christ'; included in major texts.",
+              "alt": "from God our Father",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "ευχαριϲτουμεν τω θω  και πατρι του κυ  ημων ιυ  χυ  παντοτε περι ϋμω  προϲευχομενοι",
+          "translation": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "ακουϲαντεϲ την πιϲτιν ϋμων εν κω  ιυ  και την αγαπην ην εχετε ειϲ πανταϲ τουϲ αγιουϲ",
+          "translation": "since we heard of your faith in Christ Jesus and of the love that you have for all the saints,",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "δια την ελπιδα την αποκειμενην ϋμιν εν τοιϲ ουρανοιϲ ην προηκουϲατε εν τω λογω τηϲ αληθιαϲ του ευαγγελιου",
+          "translation": "because of the hope laid up for you in heaven. You have already heard about this hope in the word of truth, the gospel",
+          "notes": []
+        },
+        {
+          "verse": 6,
+          "source": "του παροτοϲ ειϲ υμαϲ καθωϲ και εν παντι τω κοϲμω εϲτιν καρποφορουμενον και αυξανομενο  καθωϲ και εν υμι  αφ ηϲ ημεραϲ ηκουϲατε και επεγνωτε την χαριν του θυ  εν αληθια",
+          "translation": "that has come to you. Just as it is bearing fruit and growing in the whole world, so it has been bearing fruit among yourselves from the day you heard it and truly comprehended the grace of God.",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "καθωϲ εμαθατε απο επαφρα του αγαπητου ϲυνδουλου ημω  οϲ εϲτιν πιϲτοϲ ϋπερ ημων διακονοϲ του χυ ",
+          "translation": "This you learned from Epaphras, our beloved fellow servant. He is a faithful minister of Christ on our behalf,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ϋπερ ημων",
+              "note": "Some manuscripts read 'on your behalf'; affects whether Epaphras represents Paul or the Colossians.",
+              "alt": "on your behalf",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "ο και δηλωϲαϲ ημιν την ϋμων αγαπην εν πνι",
+          "translation": "and he has made known to us your love in the Spirit.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "δια τουτο και ημιϲ αφ ηϲ ημεραϲ ηκου ϲαμεν ου παυομεθα ϋπερ ϋμων προϲευχομενοι και αιτουμενοι ϊνα πληρωθητε την επιγνωϲιν του θεληματοϲ αυτου ε  παϲη ϲοφια και ϲυνεϲει πνικη",
+          "translation": "For this reason, since the day we heard it, we have not ceased praying for you and asking that you may be filled with the knowledge of God's will in all spiritual wisdom and understanding,",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "περιπατηϲαι ┬ αξιωϲ του κυ  ειϲ παϲαν αρεϲκιαν εν παντι εργω αγαθω καρποφορουντεϲ και αυξανομενοι ┬ τη επιγνωϲει του θυ ",
+          "translation": "so that you may walk worthy of the Lord, fully pleasing to him, as you bear fruit in every good work and as you grow in the knowledge of God.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Markers likely for insertions; first for 'to' or similar, second for 'in'.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "εν παϲη δυναμει δυναμουμενοι κατα το κρατοϲ τηϲ δοξηϲ αυτου ειϲ παϲαν υπομονην και μακροθυμιαν μετα χαραϲ",
+          "translation": "May you be made strong with all the strength that comes from his glorious power, and may you be prepared to endure everything with patience and joy,",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "ευχαριϲτουντεϲ τω θω  πατρι τω ϊκανωϲαντι ϋμαϲ ειϲ την μεριδα του κληρου τω  αγιων εν τω φωτι",
+          "translation": "giving thanks to the Father, who has enabled you to share in the inheritance of the saints in the light.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ϋμαϲ",
+              "note": "Some manuscripts read 'us'; affects whether it includes Paul or just Colossians.",
+              "alt": "us",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "οϲ ερρυϲατο ημαϲ εκ τηϲ εξουϲιαϲ του ϲκοτουϲ και μετεϲτηϲεν ειϲ την βαϲιλειαν του ϋϊου τηϲ αγαπηϲ αυτου",
+          "translation": "He has rescued us from the power of darkness and transferred us into the kingdom of his beloved Son,",
+          "notes": []
+        },
+        {
+          "verse": 14,
+          "source": "εν ω εχομεν την απολυτρωϲιν την αφεϲιν των αμαρτιων",
+          "translation": "in whom we have redemption, the forgiveness of sins.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "οϲ εϲτιν εικων του θυ  του αορατου πρωτοτοκοϲ παϲηϲ κτιϲεωϲ",
+          "translation": "He is the image of the invisible God, the firstborn of all creation;",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "πρωτοτοκοϲ",
+              "note": "Implies preeminence and priority, not literal birth; draws on Jewish wisdom traditions.",
+              "alt": "preeminent over",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "οτι εν αυτω εκτιϲθη τα παντα ┬ εν τοιϲ ουρανοιϲ και ┬ επι τηϲ γηϲ τα ορατα και τα αορατα ˙ ειτε θρονοι ειτε κυριοτητεϲ ειτε αρχαι ειτε εξουϲιαι τα παντα δι αυτου και ειϲ αυτον εκτιϲται",
+          "translation": "for in him all things in heaven and on earth were created, things visible and invisible, whether thrones or dominions or rulers or powers—all things have been created through him and for him.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Markers for 'the' or similar articles.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "και αυτοϲ εϲτιν προ παντων και τα παντα εν αυτω ϲυνεϲτηκεν",
+          "translation": "He himself is before all things, and in him all things hold together.",
+          "notes": []
+        },
+        {
+          "verse": 18,
+          "source": "και αυτοϲ εϲτιν η κεφαλη του ϲωματοϲ τηϲ εκκληϲιαϲ · οϲ εϲτιν αρχη πρωτοτοκοϲ ┬ των νεκρων ϊνα γενηται εν παϲιν αυτοϲ πρωτευων",
+          "translation": "He is the head of the body, the church; he is the beginning, the firstborn from the dead, so that he might come to have first place in everything.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'εκ' (from).",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "source": "οτι εν αυτω εδοκηϲεν παν το πληρωμα κατοικηϲαι",
+          "translation": "For in him all the fullness of God was pleased to dwell,",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "πληρωμα",
+              "note": "Refers to the totality of divine essence; echoes Jewish concepts of divine presence.",
+              "alt": "fullness",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "και δι αυτου αποκαταλλαξαι τα παντα ειϲ αυτον ειρηνοποιηϲαϲ δια του αιματοϲ του ϲταυρου αυτου δι αυτου ειτε τα επι τηϲ γηϲ ειτε τα εν τοιϲ ουρανοιϲ",
+          "translation": "and through him God was pleased to reconcile to himself all things, whether on earth or in heaven, by making peace through the blood of his cross.",
+          "notes": []
+        },
+        {
+          "verse": 21,
+          "source": "και ϋμαϲ ποτε ονταϲ απηλλοτριωμενουϲ και εχθρουϲ τη διανοια εν τοιϲ εργοιϲ τοιϲ πονηροιϲ",
+          "translation": "And you who were once estranged and hostile in mind, doing evil deeds,",
+          "notes": []
+        },
+        {
+          "verse": 22,
+          "source": "νυνϊ δε αποκατηλλαξεν εν τω ϲωματι τηϲ ϲαρκοϲ αυτου δια του θανατου αυτου παραϲτηϲαι ϋμαϲ αγιουϲ και αμωμουϲ και ανεγκλητουϲ κατενωπιον αυτου",
+          "translation": "he has now reconciled in his fleshly body through death, so as to present you holy and blameless and irreproachable before him—",
+          "notes": []
+        },
+        {
+          "verse": 23,
+          "source": "ει γε επιμενετε τη πιϲτι τεθεμελιωμενοι και εδραιοι και μη μετακινουμενοι απο τηϲ ελπιδοϲ του ευαγγελιου ου ηκουϲατε του κηρυχθεντοϲ εν παϲη ┬ κτιϲει τη υπο τον ουρανον ου εγενομην εγω παυλοϲ κηρυξ κ(αι) αποϲτολοϲ",
+          "translation": "provided that you continue securely established and steadfast in the faith, without shifting from the hope promised by the gospel that you heard, which has been proclaimed to every creature under heaven. I, Paul, became a minister of this gospel.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'the' or similar.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "idiom",
+              "target": "εν παϲη κτιϲει",
+              "note": "Hyperbolic expression for widespread proclamation, common in ancient rhetoric.",
+              "alt": "in all creation",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "source": "νυν χαιρω εν τοιϲ παθημαϲιν ┬ υμω  και ανταναπληρω τα ϋϲτερηματα τω  θλιψεων του χυ  ε  τη ϲαρκι μου ϋπερ του ϲωματοϲ αυτου ο εϲτιν η εκκληϲια ·",
+          "translation": "I am now rejoicing in my sufferings for your sake, and in my flesh I am completing what is lacking in Christ's afflictions for the sake of his body, that is, the church.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'for you' or similar.",
+              "alt": "for you",
+              "refs": []
+            },
+            {
+              "category": "translation",
+              "target": "completing what is lacking in Christ's afflictions",
+              "note": "Disputed; may refer to Paul's sharing in messianic woes, not implying deficiency in Christ's work.",
+              "alt": "filling up the remainder of Christ's sufferings",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "source": "ηϲ εγενομην εγω παυλοϲ διακονοϲ κατα την οικονομιαν του θυ  την δοθιϲαν μοι ειϲ ϋμαϲ πληρωϲαι τον λογον του θυ ",
+          "translation": "I became its minister according to God's commission that was given to me for you, to make the word of God fully known,",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "οικονομιαν",
+              "note": "Stewardship or administration; refers to Paul's role in God's plan.",
+              "alt": "stewardship",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "source": "το μυϲτηριον το αποκεκρυμμενον απο των αιωνων και απο των γενεων νυ  δε εφανερωθη τοιϲ αγιοιϲ αυτου",
+          "translation": "the mystery that has been hidden throughout the ages and generations but has now been revealed to his saints.",
+          "notes": []
+        },
+        {
+          "verse": 27,
+          "source": "οιϲ ηθεληϲεν ο θϲ  γνωριϲαι τιϲ ο πλουτοϲ τηϲ δοξηϲ του μυϲτηριου του εν τοιϲ εθνεϲιν οϲ εϲτιν χϲ  εν υμι  η ελπιϲ τηϲ δοξηϲ ·",
+          "translation": "To them God chose to make known how great among the gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory.",
+          "notes": []
+        },
+        {
+          "verse": 28,
+          "source": "ον ημειϲ καταγγελλομεν νουθετουτεϲ παντα ανθρωπον και διδαϲκοντεϲ παντα ανθρωπον εν παϲη ϲοφια ϊνα παραϲτηϲωμεν παντα ανθρωπον τελειον εν χω  ┬",
+          "translation": "It is he whom we proclaim, warning everyone and teaching everyone in all wisdom, so that we may present everyone mature in Christ.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'Jesus' or similar.",
+              "alt": "in Christ Jesus",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "source": "ειϲ ο και κοπιω αγωνιζομενοϲ κατα την ενεργιαν αυτου την ενεργουμενην εν εμοι εν δυναμει",
+          "translation": "For this I toil and struggle with all the energy that he powerfully inspires within me.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "θελω γαρ υμαϲ ειδεναι ηλικον αγωνα εχω ϋπερ υμω  και των εν λαοδικια και οϲοι ουχ εορακαν το προϲωπον μου ┬",
+          "translation": "For I want you to know how much I am struggling for you and for those in Laodicea and for all who have not seen me face to face.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'in the flesh' or similar.",
+              "alt": "face to face in the flesh",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "ϊνα παρακληθωϲιν αι καρδιαι αυτων ϲυμβιβαϲθεντεϲ εν αγαπη και ειϲ παν πλουτοϲ τηϲ πληροφοριαϲ τηϲ ϲυνεϲεωϲ ειϲ επιγνωϲιν του μυϲτηριου του θυ  πατροϲ χυ ",
+          "translation": "I want their hearts to be encouraged and united in love, so that they may have all the riches of assured understanding and have the knowledge of God's mystery, that is, Christ,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "του θυ  πατροϲ χυ ",
+              "note": "Variants include 'of God and of Christ' or 'of God, which is Christ'; affects Trinitarian implications.",
+              "alt": "of the mystery of God, Christ",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "εν ω ειϲι  παντεϲ οι θηϲαυροι τηϲ ϲοφιαϲ και ┬ γνωϲεωϲ αποκρυφοι",
+          "translation": "in whom are hidden all the treasures of wisdom and knowledge.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'the' or similar.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "τουτο ┬ λεγω ινα μηδειϲ ϋμαϲ παραλογιζηται εν πιθανολογια",
+          "translation": "I am saying this so that no one may deceive you with plausible arguments.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker possibly for 'now' or emphasis.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "source": "ει γαρ και τη ϲαρκι απειμι αλλα τω πνι ϲυν υμιν ειμι χαιρων και βλεπω  ϋμων την ταξιν κ(αι) το ϲτερεωμα τηϲ ειϲ χν  πιϲτεωϲ ϋμων",
+          "translation": "For though I am absent in body, yet I am with you in spirit, and I rejoice to see your orderly conduct and the firmness of your faith in Christ.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ταξιν... ϲτερεωμα",
+              "note": "Military metaphors for discipline and stability.",
+              "alt": "good order... firm faith",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "ωϲ ουν παρελαβετε τον χν  ιν  τον κν  εν αυτω περιπατειτε",
+          "translation": "As you therefore have received Christ Jesus the Lord, continue to walk in him,",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "ερριζωμενοι και εποικοδομου μενοι ┬ και βεβαιουμενοι εν τη πιϲτει καθωϲ εδιδαχθητε περιϲϲευοτεϲ ┬ εν ευχαριϲτια",
+          "translation": "rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Markers for participles or connectors.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "βλεπεται μη τιϲ εϲται ϋμαϲ ο ϲυλαγων δια τηϲ φιλοϲοφιαϲ και κενηϲ απατηϲ κατα την παραδοϲιν των αθρωπων κατα τα ϲτοιχια του κοϲμ(ου) και ου κατα χν ",
+          "translation": "See to it that no one takes you captive through philosophy and empty deceit, according to human tradition, according to the elemental principles of the world, and not according to Christ.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲτοιχια",
+              "note": "Can mean basic principles, elemental spirits, or cosmic elements; context suggests rudimentary teachings or spiritual forces.",
+              "alt": "elemental spirits",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "οτι εν αυτω κατοικει παν το πληρωμα τηϲ θεοτητοϲ ϲωματικωϲ",
+          "translation": "For in him the whole fullness of deity dwells bodily,",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "και εϲτε εν αυτω πεπληρωμενοι οϲ εϲτιν η κεφαλη παϲηϲ τηϲ αρχηϲ εκκληϲιαϲ",
+          "translation": "and you have come to fullness in him, who is the head of every ruler and authority.",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "παϲηϲ τηϲ αρχηϲ εκκληϲιαϲ",
+              "note": "Text appears truncated or variant; standard is 'head of all rule and authority.'",
+              "alt": "head of every ruler and authority",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "εν ω και περιετμηθητε περιτομη αχειροποιητω εν τη απεκδυϲει του ϲωματοϲ ┬ τηϲ ϲαρκοϲ εν τη περιτομη του χυ ",
+          "translation": "In him also you were circumcised with a spiritual circumcision, by the removal of the body of the flesh in the circumcision of Christ;",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'of'.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "cultural",
+              "target": "circumcision",
+              "note": "Metaphor for spiritual renewal, contrasting with Jewish physical rite.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ϲυνταφετεϲ αυτω εν τω βαπτιϲματι εν ω και ϲυνηγερθητε δια τηϲ πιϲτεωϲ τηϲ ενεργειαϲ του θυ  του εγειραντοϲ αυτον εκ νεκρων",
+          "translation": "when you were buried with him in baptism, you were also raised with him through faith in the power of God, who raised him from the dead.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "και ϋμαϲ νεκρουϲ ονταϲ ┬ τοιϲ παραπτωμαϲιν και τη ακροβυϲτια τηϲ ϲαρκοϲ υμων ϲυνεζωοποιηϲεν ϋμαϲ ϲυν αυτω χαριϲαμενοϲ ημι  παντα τα παραπτωματα",
+          "translation": "And when you were dead in trespasses and the uncircumcision of your flesh, God made you alive together with him, when he forgave us all our trespasses,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'in'.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "textual",
+              "target": "ημι ",
+              "note": "Some manuscripts read 'you'; shifts from inclusive to exclusive.",
+              "alt": "forgave you",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "εξαλιψαϲ το καθ ημων χειρογραφον τοιϲ δογμαϲιν ο ην ϋπενατιον ημων και αυτο ηρκεν εκ του μεϲου προϲηλωϲαϲ αυτο τω ϲταυρω",
+          "translation": "erasing the record that stood against us with its legal demands. He set this aside, nailing it to the cross.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "χειρογραφον",
+              "note": "Literally 'handwritten note'; metaphor for a certificate of debt or decree.",
+              "alt": "certificate of debt",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "source": "απεκδυϲαμενοϲ ταϲ αρχαϲ και ταϲ εξουϲιαϲ εδιγματιϲεν εν παρρηϲια θριαμβευϲαϲ αυτουϲ εν αυτω",
+          "translation": "He disarmed the rulers and authorities and made a public example of them, triumphing over them in it.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "θριαμβευϲαϲ",
+              "note": "Evokes Roman triumphal procession, where conquered enemies are paraded.",
+              "alt": "leading them in triumph",
+              "refs": []
+            },
+            {
+              "category": "syntax",
+              "target": "εν αυτω",
+              "note": "Can refer to Christ or the cross; ambiguous in Greek.",
+              "alt": "in him / by the cross",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "μη ουν τιϲ ϋμαϲ κρινετω εν βρωϲι η εν ποϲει η ε  μερει εορτηϲ η νουμηνιαϲ η ϲαββατων",
+          "translation": "Therefore, do not let anyone condemn you in matters of food or drink or of observing festivals, new moons, or sabbaths.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "festivals, new moons, or sabbaths",
+              "note": "Refers to Jewish observances; Paul argues they are not binding for Christians.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "α εϲτιν ϲκια των μελλοντω  το δε ϲωμα του χυ ",
+          "translation": "These are only a shadow of what is to come, but the substance belongs to Christ.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ϲκια... ϲωμα",
+              "note": "Platonic imagery of shadow vs. reality; Jewish laws foreshadow Christ.",
+              "alt": "shadow... reality",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "source": "μηδιϲ ϋμαϲ καταβραβευετω θελω  ┬ ταπινοφροϲυνη και θρηϲκεια τω  μελλοντων αγγελων α ┬ εορακεν εμβατευων εικη φυϲιουμενοϲ υπο του νοοϲ τηϲ ϲαρκοϲ αυτων",
+          "translation": "Do not let anyone disqualify you, insisting on self-abasement and worship of angels, dwelling on visions, puffed up without cause by a human way of thinking,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Markers likely for 'in' or similar prepositions.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "cultural",
+              "target": "worship of angels",
+              "note": "Possibly refers to ascetic practices involving angelic mediation, common in some Jewish mystical traditions.",
+              "alt": "devotion to angels",
+              "refs": []
+            },
+            {
+              "category": "lexical",
+              "target": "εμβατευων",
+              "note": "Disputed; may mean 'investigating' or 'entering into'; some variants read 'which he has not seen.'",
+              "alt": "intruding into things not seen",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "source": "και ου κρατων την κεφαλην εξ ου παν το ϲωμα δια των αφων και ϲυνδεϲμω  επιχορηγουμενον και ϲυμβιβαζομενον αυξη την αυξηϲιν του θυ ",
+          "translation": "and not holding fast to the head, from whom the whole body, nourished and held together by its ligaments and sinews, grows with a growth that is from God.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "body... ligaments and sinews",
+              "note": "Medical metaphor for church unity under Christ as head.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "ει αποθανετε ου  ϲυν χω  απο των ϲτοιχιων του κοϲμου τι ωϲ ζωντεϲ εν κοϲμω δογματιζεϲθε",
+          "translation": "If with Christ you died to the elemental principles of the world, why do you live as if you still belonged to the world? Why do you submit to regulations,",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲτοιχιων",
+              "note": "See note on 2:8; here emphasizing freedom from such forces.",
+              "alt": "elemental spirits",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "source": "μη αψη μηδε γευϲη · μηδε θιγηϲ",
+          "translation": "“Do not handle, Do not taste, Do not touch”?",
+          "notes": [
+            {
+              "category": "rhetorical",
+              "target": "regulations",
+              "note": "Sarcastic quotation of ascetic rules, highlighting their futility.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "source": "α εϲτιν παντα ειϲ φθοραν τη αποχρηϲει κατα τα ενταλματα και διδαϲκαλιαϲ τω  ανθρωπων",
+          "translation": "All these regulations refer to things that perish with use; they are simply human commands and teachings.",
+          "notes": []
+        },
+        {
+          "verse": 23,
+          "source": "ατινα εϲτιν λογο  μεν εχοντα ϲοφιαϲ εν εθελοθρηϲκια και ταπινοφροϲυνη και αφιδια ϲωματοϲ ουκ ε  τιμη τινι προϲ πληϲμονην τηϲ ϲαρκοϲ",
+          "translation": "These have indeed an appearance of wisdom in promoting self-imposed piety, humility, and severe treatment of the body, but they are of no value in checking self-indulgence.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "εθελοθρηϲκια",
+              "note": "Voluntary or self-made religion; critiques invented spiritual practices.",
+              "alt": "self-made worship",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "ει ουν ϲυνηγερθητε εν χω  τα ανω ζητειτε ου ο χϲ  ┬ εν δεξια του θυ  καθημενοϲ",
+          "translation": "So if you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker likely for 'seated'.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "cultural",
+              "target": "seated at the right hand",
+              "note": "Alludes to Psalm 110:1; signifies authority and honor in ancient Near Eastern culture.",
+              "alt": null,
+              "refs": ["LXX"]
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "τα ανω φρονειτε μη τα επι τηϲ γηϲ",
+          "translation": "Set your minds on things that are above, not on things that are on earth,",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "απεθανετε γαρ και η ζωη υμων κεκρυπται ϲυν τω χω  εν τω θω ",
+          "translation": "for you have died, and your life is hidden with Christ in God.",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "οταν ο χϲ  φανερωθη η ζωη ϋμων τοτε και υμιϲ ϲυν αυτω φανερωθηϲεϲθε εν δοξη",
+          "translation": "When Christ who is your life is revealed, then you also will be revealed with him in glory.",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "νεκρωϲατε ουν τα μελη ┬ τα επι τηϲ γηϲ πορνιαν · ακαθαρϲιαν παθοϲ επιθυμιαν κακην και την πλεονεξειαν ητιϲ εϲτιν ειδωλολατρια",
+          "translation": "Put to death, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry).",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'your'.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "δι α ερχεται η οργη του θυ  επι τουϲ υϊουϲ τηϲ απιθιαϲ",
+          "translation": "On account of these the wrath of God is coming on those who are disobedient.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "επι τουϲ υϊουϲ τηϲ απιθιαϲ",
+              "note": "Omitted in some manuscripts; inclusion emphasizes judgment on unbelievers.",
+              "alt": null,
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "εν οιϲ και υμιϲ περιεπατηϲατε ποτε οτε εζητε εν τουτοιϲ",
+          "translation": "These are the ways you also once followed, when you were living that life.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "νυνϊ δε αποθεϲθε ┬ τα παντα οργην θυμον · κακιαν · βλαϲφημιαν · αιϲχρολογιαν εκ του ϲτοματοϲ υμων",
+          "translation": "But now you must get rid of all such things: anger, wrath, malice, slander, and abusive language from your mouth.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'also' or similar.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "μη ψευδεϲθε ειϲ αλληλουϲ απεκδυϲαμενοι το  παλαιον ανθρωπον ϲυν ταιϲ πραξεϲιν αυτου",
+          "translation": "Do not lie to one another, seeing that you have stripped off the old self with its practices",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "stripped off the old self",
+              "note": "Clothing metaphor for transformation; echoes baptismal imagery.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "source": "και επεδυϲαμενοι τον νεον τον ανακαινουμενον ειϲ επιγνωϲιν κατ εικονα του κτιϲαντοϲ αυτον",
+          "translation": "and have clothed yourselves with the new self, which is being renewed in knowledge according to the image of its creator.",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "οπου ουκ ενι ελλη  και ϊουδαιοϲ περιτομη και ακροβυϲτια βαρβαροϲ ϲκυθηϲ δουλοϲ ελευθεροϲ αλλα ┬ παντα και εν παϲιν χϲ ",
+          "translation": "In that renewal there is no longer Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave and free, but Christ is all and in all.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'the'.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "cultural",
+              "target": "barbarian, Scythian",
+              "note": "Scythians were viewed as extreme barbarians in Greco-Roman world; emphasizes radical equality.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ενδυϲαϲθε ουν ωϲ εκλεκτοι του θυ  αγιοι και ηγαπημενοι ϲπλαγχνα οικτιρμου χρηϲτοτητα ταπινοφροϲυνη  πραυτητα · μακροθυμιαν",
+          "translation": "Therefore, as God's chosen ones, holy and beloved, clothe yourselves with compassion, kindness, humility, meekness, and patience.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "ανεχομενοι αλληλων και χαριζομενοι εαυτοιϲ εαν τιϲ προϲ τινα εχη μομφη  καθωϲ και ο θϲ  εχαριϲατο ϋμιν ουτωϲ και ϋμιϲ",
+          "translation": "Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord has forgiven you, so you also must forgive.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ο θϲ ",
+              "note": "Some manuscripts read 'Christ' or 'God in Christ'; variant affects emphasis.",
+              "alt": "Christ",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "επι παϲι δε τουτοιϲ την αγαπην οϲ εϲτιν ϲυνδεϲμοϲ τηϲ τελειοτητοϲ",
+          "translation": "Above all, clothe yourselves with love, which binds everything together in perfect harmony.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "και η ειρηνη του χυ  βραβευετω εν ταιϲ καρδιαιϲ ϋμω  ειϲ ην και εκληθητε εν ενι ϲωματι και ευχαριϲτοι γινεϲθε",
+          "translation": "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "βραβευετω",
+              "note": "From athletic umpiring; means 'arbitrate' or 'decide.'",
+              "alt": "rule",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "ο λογοϲ του κυ  ενοικιτω εν υμιν πλου ϲιωϲ εν παϲη ϲοφια διδαϲκοντεϲ και νουθετουντεϲ εαυτουϲ ψαλμοιϲ ϋμνοιϲ ωδαιϲ πνικαιϲ εν ┬ χαριτι αδοντεϲ εν ταιϲ καρδιεϲ ϋμω  τω θω ",
+          "translation": "Let the word of Christ dwell in you richly; teach and admonish one another in all wisdom; and with gratitude in your hearts sing psalms, hymns, and spiritual songs to God.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'the'.",
+              "alt": null,
+              "refs": []
+            },
+            {
+              "category": "textual",
+              "target": "του κυ ",
+              "note": "Some manuscripts read 'of the Lord' or 'of God'; majority 'of Christ.'",
+              "alt": "of the Lord",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "και παν ο τι αν ποιητε εν λογω η εν εργω παντα εν ονοματι ┬ κυ  ιυ  χυ  ευχαριϲτουντεϲ τω θω  πρι δι αυτου",
+          "translation": "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'the'.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "source": "αι γυναικεϲ ϋποταϲϲεϲθαι τοιϲ ανδραϲιν ωϲ ανηκε  εν κω ",
+          "translation": "Wives, be subject to your husbands, as is fitting in the Lord.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "be subject",
+              "note": "Reflects Greco-Roman household codes, adapted to Christian mutuality.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "source": "οι ανδρεϲ αγαπατε ταϲ ┬ γυναικαϲ και μη πικρενεϲθε προϲ αυταϲ",
+          "translation": "Husbands, love your wives and never treat them harshly.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'your'.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "τα τεκνα ϋπακουετε τοιϲ γονευϲιν κατα παντα τουτο γαρ ευαρεϲτον εϲτι  εν κω ",
+          "translation": "Children, obey your parents in everything, for this is your acceptable duty in the Lord.",
+          "notes": []
+        },
+        {
+          "verse": 21,
+          "source": "οι πατερεϲ μη παροργιζεται τα τεκνα ϋμων ϊνα μη αθυμωϲιν",
+          "translation": "Fathers, do not provoke your children, or they may lose heart.",
+          "notes": []
+        },
+        {
+          "verse": 22,
+          "source": "οι δουλοι υπακουετε κατα παντα τοιϲ κατα ϲαρκα κυριοιϲ μη εν οφθαλμοδουλιαιϲ ωϲ ανθρωπαρεϲκοι αλλ εν απλοτητι καρδιαϲ φοβουμενοι τον κν ",
+          "translation": "Slaves, obey your earthly masters in everything, not only while being watched and in order to please them, but wholeheartedly, fearing the Lord.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "slaves... masters",
+              "note": "Addresses Roman slavery; encourages integrity, not abolition.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "source": "┬ ο εαν ποιητε εκ ψυχηϲ εργαζεϲθε ωϲ τω κω  και ουκ ανθρωποιϲ",
+          "translation": "Whatever your task, put yourselves into it, as done for the Lord and not for humans,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'and' or beginning of sentence.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "source": "ειδοτεϲ οτι απο κυ  απολημψεϲθε την αταποδοϲιν τηϲ κληρονομιαϲ τω κω  χω  δουλευετε",
+          "translation": "since you know that from the Lord you will receive the inheritance as your reward; you serve the Lord Christ.",
+          "notes": []
+        },
+        {
+          "verse": 25,
+          "source": "ο γαρ αδικων κομιειται ο ηδικηϲεν και ουκ εϲτιν προϲωπολημψια",
+          "translation": "For the wrongdoer will be paid back for whatever wrong has been done, and there is no partiality.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "οι κυριοι το δικαιον και την ϊϲοτητα τοιϲ δουλοιϲ παρεχεϲθε ειδοτεϲ οτι και ϋμειϲ εχετε κν  εν ουρανω",
+          "translation": "Masters, treat your slaves justly and fairly, for you know that you also have a Master in heaven.",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "τη προϲευχη προϲκαρτεριτε γρηγορουτεϲ ┬ εν ευχαριϲτια",
+          "translation": "Devote yourselves to prayer, keeping alert in it with thanksgiving.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'in it' or similar.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "προϲευχομενοι αμα και περι ημω  ϊνα ο θϲ  ανοιξη ημιν θυραν του λογου λαληϲαι το μυϲτηριον του χυ  δι ο και δεδεμαι",
+          "translation": "At the same time, pray for us as well that God will open to us a door for the word, that we may declare the mystery of Christ, for which I am in prison,",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "ϊνα φανερωϲω αυτο ωϲ δι με λαληϲαι",
+          "translation": "so that I may reveal it clearly, as I should.",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "εν ϲοφια περιπατειτε προϲ τουϲ εξω το  καιρον εξαγοραζομενοι",
+          "translation": "Conduct yourselves wisely toward outsiders, making the most of the time.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "εξαγοραζομενοι",
+              "note": "Literally 'redeeming'; means seizing opportunities.",
+              "alt": "redeeming the time",
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "ο λογοϲ ϋμων παντοτε εν χαριτι αλατι ηρτυμενοϲ ειδεναι πωϲ δει υμαϲ ενει εκαϲτω αποκρινεϲθαι",
+          "translation": "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer everyone.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "seasoned with salt",
+              "note": "Metaphor for wit or preservation; makes speech appealing and effective.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "τα δε κατ εμε παντα γνωριϲει ϋμιν τυχικοϲ ο αγαπητοϲ αδελφοϲ και πιϲτοϲ διακονοϲ ┬ εν κω ",
+          "translation": "Tychicus will tell you all the news about me; he is a beloved brother, a faithful minister, and a fellow servant in the Lord.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker for 'and fellow servant'.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "ον επεμψα προϲ υμαϲ ειϲ αυτο τουτο ϊνα γνωτε τα περι ϋμων και παρακαλεϲη τϲ καρδιαϲ ϋμων",
+          "translation": "I have sent him to you for this very purpose, so that you may know how we are and that he may encourage your hearts;",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "γνωτε τα περι ϋμων",
+              "note": "Some manuscripts read 'know our circumstances'; variant affects direction.",
+              "alt": "know about us",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "ϲυν ονηϲιμω τω πιϲτω και αγαπητω αδελφω οϲ εϲτιν εξ υμων παντα υμιν γνωριουϲιν τα ωδε",
+          "translation": "he is coming with Onesimus, the faithful and beloved brother, who is one of you. They will tell you about everything here.",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "αϲπαζεται ϋμαϲ αριϲταρχοϲ ο ϲυναιχμαλωτοϲ μου και μαρκοϲ ο ανεψιοϲ βαρναβα περι ου ελαβετε εντολαϲ εαν ελθη προϲ υμαϲ δεξαϲθε αυτον",
+          "translation": "Aristarchus my fellow prisoner greets you, as does Mark the cousin of Barnabas, concerning whom you have received instructions—if he comes to you, welcome him.",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "και ϊηϲουϲ ο λεγομενοϲ ϊουϲτοϲ οι οντεϲ εκ περιτομηϲ ουτοι μονοι ϲυνεργοι ειϲ την βαϲιλειαν του θυ  οιτινεϲ εγενηθηϲαν μοι παρηγορια",
+          "translation": "And Jesus who is called Justus greets you. These are the only ones of the circumcision among my coworkers for the kingdom of God, and they have been a comfort to me.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "αϲπαζετε ϋμαϲ επαφραϲ ο εξ υμω  δουλοϲ χυ  ιυ  παντοτε αγωνιζομενοϲ ϋπερ ημων εν ταιϲ προϲευχαιϲ ϊνα ϲταθητε τελιοι και πεπληροφορημενοι εν παντι θεληματι του θυ ",
+          "translation": "Epaphras, who is one of you, a servant of Christ Jesus, greets you. He is always striving in his prayers for you, so that you may stand mature and fully assured in everything willed by God.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ϋπερ ημων",
+              "note": "Some manuscripts read 'for you'; affects prayer focus.",
+              "alt": "for you",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "μαρτυρω γαρ αυτω οτι εχει πολυν πονον ϋπερ ϋμων και των εν λαοδικια και των εν ϊεραπολει",
+          "translation": "For I testify for him that he has worked hard for you and for those in Laodicea and in Hierapolis.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "πονον",
+              "note": "Some manuscripts read 'zeal'; means intense effort.",
+              "alt": "zeal",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "αϲπαζεται ϋμαϲ λουκαϲ ο ϊατροϲ ο αγαπητοϲ και δημαϲ",
+          "translation": "Luke, the beloved physician, and Demas greet you.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "αϲπαϲαϲθε τουϲ εν λαοδικια αδελφουϲ και νυμφαν και την κατ οικον αυτων εκκληϲιαν",
+          "translation": "Give my greetings to the brothers and sisters in Laodicea and to Nympha and the church in her house.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "νυμφαν... αυτων",
+              "note": "Some manuscripts read masculine 'Nymphas' and 'his'; gender disputed.",
+              "alt": "Nymphas... his house",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "και οταν αναγνωϲθη παρ υμιν η επιϲτολη ποιηϲατε ινα και εν τη λαοδικαιων εκκληϲια αναγνωϲθη και τη  εκ λαοδικιαϲ ϊνα και ϋμιϲ αναγνωτε",
+          "translation": "And when this letter has been read among you, have it read also in the church of the Laodiceans; and see that you read also the letter from Laodicea.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "letter from Laodicea",
+              "note": "Possibly refers to Ephesians or a lost letter; encouraged circulation of Paul's writings.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "και ειπατε αρχιππω βλεπε την διακονιαν ην παρελαβεϲ ε  κω  ϊνα αυτην πληροιϲ",
+          "translation": "And say to Archippus, “See that you complete the task that you have received in the Lord.”",
+          "notes": []
+        },
+        {
+          "verse": 18,
+          "source": "ο αϲπαϲμοϲ τη εμη χειρι παυλου μνημονευετε μου τω  δεϲμων η χαριϲ μεθ υμων ┬",
+          "translation": "I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬",
+              "note": "Marker possibly for 'amen' or end of text.",
+              "alt": "Amen",
+              "refs": ["NA28"]
+            },
+            {
+              "category": "cultural",
+              "target": "with my own hand",
+              "note": "Paul's authentication; common in ancient letters to verify authorship.",
+              "alt": null,
+              "refs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
