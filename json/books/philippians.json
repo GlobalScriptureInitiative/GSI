@@ -1,0 +1,902 @@
+{
+  "book": "Philippians",
+  "language": "Greek",
+  "rendering": "2025 American English",
+  "config": {
+    "divine_name": null,
+    "proper_names": "standard",
+    "reading_level": null
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "παυλοϲ και τιμοθεοϲ δουλοι χυ  ιυ  παϲι τοιϲ αγιοιϲ εν χω  ιυ  τοιϲ ουϲιν εν φιλιπποιϲ ϲυν επιϲκοποιϲ και διακονοιϲ",
+          "translation": "Paul and Timothy, servants of Christ Jesus, to all God's holy people in Christ Jesus at Philippi, together with the overseers and deacons:",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "δουλοι",
+              "note": "Often 'slaves' to convey total commitment; 'servants' fits modern idiom for voluntary service.",
+              "alt": "slaves"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "χαριϲ ϋμιν και ειρηνη απο θυ  πατροϲ ημων και κυ  ιυ  χυ",
+          "translation": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "ευχαριϲτω τω θω  μου επι παϲη τη μνεια ϋμων",
+          "translation": "I thank my God every time I remember you.",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "παντοτε εν παϲη τη δεηϲει μου ϋπερ πατων υμων μετα χαραϲ την δεηϲιν ποιουμενοϲ",
+          "translation": "In all my prayers for all of you, I always pray with joy",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "επι τη κοινωνια υ̇μων ειϲ το ευαγγελιον απο τηϲ πρωτηϲ ημεραϲ αχρι του νυν",
+          "translation": "because of your partnership in the gospel from the first day until now,",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "κοινωνια",
+              "note": "Implies shared participation, including financial support in context."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "πεποιθωϲ αυτο τουτο οτι ο εναρξαμενοϲ εν υμιν εργο  αγαθον επιτελεϲι αχρι ημεραϲ ιυ  χυ",
+          "translation": "being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "επιτελεϲι",
+              "note": "Future tense emphasizes ongoing process leading to completion."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "καθωϲ εϲτιν δικαιον εμοι τουτο φρονειν υπερ παντων ϋμων δια το εχειν με εν τη καρδια ϋμαϲ εν τε τοιϲ δεϲμοιϲ μου και εν τη απολογια και βεβαιωϲει του ευαγγελιου ϲυκοινωνουϲ μου τηϲ χαριτοϲ πανταϲ υμαϲ ονταϲ",
+          "translation": "It is right for me to feel this way about all of you, since I have you in my heart and, whether I am in chains or defending and confirming the gospel, all of you share in God's grace with me.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "μαρτυϲ γαρ μου ┬ ο θϲ  ωϲ επιποθω πανταϲ ϋμαϲ εν ϲπλαγχνοιϲ χυ  ιυ",
+          "translation": "God can testify how I long for all of you with the affection of Christ Jesus.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ϲπλαγχνοιϲ",
+              "note": "Refers to deep, gut-level compassion; literally 'bowels' as seat of emotions in ancient thought."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "και τουτο προϲευχομαι ϊνα η αγαπη υμων ετι μαλλον και μαλλον περιϲϲευη εν επιγνωϲει και παϲη αιϲθηϲει",
+          "translation": "And this is my prayer: that your love may abound more and more in knowledge and depth of insight,",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "ειϲ το δοκιμαζειν ┬ τα διαφεροντα ϊνα ητε αλικρινειϲ και απροϲκοποι ειϲ ημεραν χυ",
+          "translation": "so that you may be able to discern what is best and may be pure and blameless for the day of Christ,",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "πεπληρωμενοι καρπον δικαιοϲυνηϲ τον δια ιυ  χυ  ειϲ δοξαν και επαινον θυ",
+          "translation": "filled with the fruit of righteousness that comes through Jesus Christ—to the glory and praise of God.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "γεινωϲκιν δε ϋμαϲ βουλομαι αδελφοι οτι τα κατ εμε μαλλον ειϲ προκοπην του ευαγγελιου εληλυθεν",
+          "translation": "Now I want you to know, brothers and sisters, that what has happened to me has actually served to advance the gospel.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "ωϲτε τουϲ δεϲμουϲ μου φανερουϲ εν τω χω  γεγονεναι εν ολω τω πραιτωριω και τοιϲ λοιποιϲ παϲιν",
+          "translation": "As a result, it has become clear throughout the whole palace guard and to everyone else that I am in chains for Christ.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "πραιτωριω",
+              "note": "Refers to the Praetorian Guard or imperial residence in Rome."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "και τουϲ πλειοναϲ των αδελφων εν κω  πεποιθοταϲ τοιϲ δεϲμοιϲ μου περιϲϲοτερωϲ τολμαν αφοβωϲ τον λογον του θυ  λαλι",
+          "translation": "And because of my chains, most of the brothers and sisters have become confident in the Lord and dare all the more to proclaim the gospel without fear.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "τινεϲ μεν και δια φθονον και εριν τινεϲ δε και δι ευδοκιαν τον χν  κηρυϲϲειν",
+          "translation": "It is true that some preach Christ out of envy and rivalry, but others out of goodwill.",
+          "notes": []
+        },
+        {
+          "verse": 16,
+          "source": "οι μεν εξ αγαπηϲ ειδοτεϲ οτι ειϲ απολογιαν του ευαγγελιου κειμαι",
+          "translation": "The latter do so out of love, knowing that I am put here for the defense of the gospel.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "verse order",
+              "note": "Some manuscripts reverse verses 16 and 17; NA28 follows this order.",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "οι δε εξ εριθειαϲ τον χν  καταγγελλουϲιν ουχ αγνωϲ οιομενοι θλιψιν εγειρειν τοιϲ δεϲμοιϲ μου",
+          "translation": "The former preach Christ out of selfish ambition, not sincerely, supposing that they can stir up trouble for me while I am in chains.",
+          "notes": []
+        },
+        {
+          "verse": 18,
+          "source": "τι γαρ πλην οτι παντι τροπω ειτε προφαϲει ειτε ε αληθεια χϲ  καταγγελλεται και εν τουτω χαιρω αλλα και χαρηϲομαι",
+          "translation": "But what does it matter? The important thing is that in every way, whether from false motives or true, Christ is preached. And because of this I rejoice. Yes, and I will continue to rejoice,",
+          "notes": []
+        },
+        {
+          "verse": 19,
+          "source": "οιδα γαρ οτι τουτο μοι αποβηϲεται ειϲ ϲωτηριαν δια τηϲ ϋμων δεηϲεωϲ και επιχορηγιαϲ του πνϲ ιυ  χυ",
+          "translation": "for I know that through your prayers and God's provision of the Spirit of Jesus Christ what has happened to me will turn out for my deliverance.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲωτηριαν",
+              "note": "Can mean salvation or deliverance; here likely release from imprisonment."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "κατα την αποκαραδοκιαν και ελπιδα μ(ου) οτι εν ουδενι αιϲχυνθηϲομαι αλλ εν παϲη παρρηϲια ωϲ παντοτε και νυν μεγαλυνθηϲεται χϲ  εν τω ϲωματι μου ειτε δια ζωηϲ ειτε δια θανατου",
+          "translation": "I eagerly expect and hope that I will in no way be ashamed, but will have sufficient courage so that now as always Christ will be exalted in my body, whether by life or by death.",
+          "notes": []
+        },
+        {
+          "verse": 21,
+          "source": "εμοι γαρ το ζην χϲ  και το αποθανειν κερδοϲ",
+          "translation": "For to me, to live is Christ and to die is gain.",
+          "notes": []
+        },
+        {
+          "verse": 22,
+          "source": "ει δε το ζην εν ϲαρκι τουτο μοι καρποϲ εργου και τι αιρηϲομαι ου γνωριζω",
+          "translation": "If I am to go on living in the body, this will mean fruitful labor for me. Yet what shall I choose? I do not know!",
+          "notes": []
+        },
+        {
+          "verse": 23,
+          "source": "ϲυνεχομαι δε εκ των δυο την επιθυμιαν εχω  ειϲ το αναλυϲαι και ϲυν χω  ειναι πολλω ┬ μαλλον κριϲϲο",
+          "translation": "I am torn between the two: I desire to depart and be with Christ, which is better by far;",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "αναλυϲαι",
+              "note": "Euphemism for death, like 'to set sail' or 'to break camp'."
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "source": "το δε επιμενιν τη ϲαρκι αναγκαιοτερον δι ϋμαϲ",
+          "translation": "but it is more necessary for you that I remain in the body.",
+          "notes": []
+        },
+        {
+          "verse": 25,
+          "source": "και τουτο πεποιθωϲ οιδα οτι μενω και παραμενω παϲιν ϋμιν ειϲ την υμω  προκοπην και χαραν τηϲ πιϲτεωϲ ϋμων",
+          "translation": "Convinced of this, I know that I will remain, and I will continue with all of you for your progress and joy in the faith,",
+          "notes": []
+        },
+        {
+          "verse": 26,
+          "source": "ϊνα το καυχημα ϋμων περιϲϲευη εν χω  ιυ  εν εμοι δια τηϲ εμηϲ παρουϲιαϲ παλιν προϲ υμαϲ",
+          "translation": "so that through my being with you again your boasting in Christ Jesus will abound on account of me.",
+          "notes": []
+        },
+        {
+          "verse": 27,
+          "source": "μονον αξιωϲ του ευαγγελιου ┬ πολιτευεϲθαι ϊνα ειτε ελθων και ειδω  ϋμαϲ ┬ ακουω τα περι ϋμων οτι ϲτηκετε εν ενι πνι μια ψυχη ϲυναθλουτεϲ τη πιϲτι του ευαγγελιου",
+          "translation": "Whatever happens, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in the one Spirit, striving together as one for the faith of the gospel",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "πολιτευεϲθαι",
+              "note": "Live as citizens; Philippi was a Roman colony, evoking civic duty."
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "source": "και μη πτυρομενοι εν μηδενι ϋπο των αντικειμενων ητιϲ εϲτιν αυτοιϲ ενδειξειϲ απωλιαϲ ϋμων δε ϲωτηριαϲ και τουτο απο θυ",
+          "translation": "without being frightened in any way by those who oppose you. This is a sign to them that they will be destroyed, but that you will be saved—and that by God.",
+          "notes": []
+        },
+        {
+          "verse": 29,
+          "source": "οτι ϋμιν εχαριϲθη το ϋπερ χυ  ου μονον το ειϲ αυτο  πιϲτευειν αλλα και το ϋπερ αυτου παϲχειν",
+          "translation": "For it has been granted to you on behalf of Christ not only to believe in him, but also to suffer for him,",
+          "notes": []
+        },
+        {
+          "verse": 30,
+          "source": "τον αυτον αγωνα εχοντεϲ οιον ειδετε εν εμοι και νυν ακουετε εν εμοι",
+          "translation": "since you are going through the same struggle you saw I had, and now hear that I still have.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "ει τιϲ ουν παρακληϲιϲ εν χω  ει τι παραμυθιον αγαπηϲ ει τιϲ κοινωνια πνϲ ˙ ει τιϲ ϲπλαγχνα και οικτιρμοι",
+          "translation": "Therefore if you have any encouragement from being united with Christ, if any comfort from his love, if any common sharing in the Spirit, if any tenderness and compassion,",
+          "notes": [
+            {
+              "category": "rhetorical",
+              "target": "ει τιϲ",
+              "note": "Rhetorical conditions assuming affirmative; builds persuasive appeal."
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "πληρωϲατε μου την χαραν ϊνα το αυτο φρονητε τη  αυτην αγαπην εχοντεϲ ϲυμψυχοι το αυτο φρονουτεϲ",
+          "translation": "then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "μηδεν κατ εριθιαν μηδε κατα κενοδοξιαν αλλα τη ταπινοφροϲυνη αλληλουϲ ηγουμενοι ϋπερεχονταϲ εαυτων",
+          "translation": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves,",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "μη τα εαυτων εκαϲτοϲ ϲκοπουτεϲ αλλα και τα ετερων εκαϲτοι",
+          "translation": "not looking to your own interests but each of you to the interests of the others.",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "τουτο ┬ φρονειτε εν υμιν ο και εν χω  ιυ",
+          "translation": "In your relationships with one another, have the same mindset as Christ Jesus:",
+          "notes": []
+        },
+        {
+          "verse": 6,
+          "source": "οϲ εν μορφη θυ  υπαρχω  ουχ αρπαγμον ηγηϲατο το ειναι ϊϲα θω",
+          "translation": "Who, being in very nature God, did not consider equality with God something to be used to his own advantage;",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "αρπαγμον",
+              "note": "Debated; could mean 'something to be grasped' or 'exploited'; here emphasizes non-exploitation.",
+              "alt": "something to be grasped"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "αλλα εαυτον εκενωϲεν μορφη  δουλου λαβων εν ομοιωματι ανθρωπων γενομενοϲ και ϲχηματι ευρεθειϲ ωϲ ανθρωποϲ",
+          "translation": "rather, he made himself nothing by taking the very nature of a servant, being made in human likeness.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "εκενωϲεν",
+              "note": "Emptied himself; not loss of divinity but addition of humanity and self-limitation."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "εταπινωϲεν εαυτον γενομενοϲ ϋπηκοοϲ μεχρι θανατου θανατου δε του ϲταυρου",
+          "translation": "And being found in appearance as a man, he humbled himself by becoming obedient to death—even death on a cross!",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "ϲταυρου",
+              "note": "Crucifixion was a shameful Roman execution for slaves and rebels."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "διο και ο θϲ  αυτον ϋπερυψωϲεν και εχαριϲατο αυτω το ονομα το υπερ παν ονομα",
+          "translation": "Therefore God exalted him to the highest place and gave him the name that is above every name,",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "ϊνα εν τω ονοματι ιυ  χυ  παν γονυ καμψη επουρανιων και επιγιων και καταχθονιων",
+          "translation": "that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "και παϲα γλωϲϲα εξομολογηϲητε οτι κϲ  ιϲ  χϲ  ειϲ δοξαν θυ  πρϲ",
+          "translation": "and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "εξομολογηϲητε",
+              "note": "Imperative in some mss; confess or acknowledge."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ωϲτε αγαπητοι μ(ου) καθωϲ παντοτε ϋπηκουϲατε μη ωϲ εν τη παρουϲια μ(ου) μονον αλλα νυ  πολλω μαλλον εν τη απουϲια μ(ου) μετα φοβου και τρομου την εαυτων ϲωτηριαν κατεργαζεϲθε",
+          "translation": "Therefore, my dear friends, as you have always obeyed—not only in my presence, but now much more in my absence—continue to work out your salvation with fear and trembling,",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "κατεργαζεϲθε",
+              "note": "Work out or bring to fruition; not earn salvation but live it out corporately."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "θϲ  γαρ εϲτιν ο ενεργων εν υμιν και το θελειν και το ενεργειν ϋπερ τηϲ ευδοκιαϲ",
+          "translation": "for it is God who works in you to will and to act in order to fulfill his good purpose.",
+          "notes": []
+        },
+        {
+          "verse": 14,
+          "source": "παντα ποιειτε χωριϲ γογγυϲμων και διαλογιϲμω",
+          "translation": "Do everything without grumbling or arguing,",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "ϊνα γενηϲθε αμεμπτοι και ακαιρεοι τεκνα θυ  αμωμα μεϲον γενεαϲ ϲκολιαϲ και διεϲτραμμενηϲ εν οιϲ φαινεϲθε ωϲ φωϲτηρεϲ εν κοϲμω",
+          "translation": "so that you may become blameless and pure, 'children of God without fault in a warped and crooked generation.' Then you will shine among them like stars in the sky",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "ϲκολιαϲ και διεϲτραμμενηϲ",
+              "note": "Alludes to Deut 32:5; contrasts believers with surrounding culture."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "λογο  ζωηϲ εχοντεϲ ειϲ καυχημα εμοι ειϲ ημεραν χυ  οτι ουκ ειϲ κενον εδραμον ουδε ειϲ κενον εκοπιαϲα",
+          "translation": "as you hold firmly to the word of life. And then I will be able to boast on the day of Christ that I did not run or labor in vain.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "εχοντεϲ",
+              "note": "Hold out or hold fast; both meanings possible, emphasizing proclamation or adherence.",
+              "alt": "hold out"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "αλλ ει και ϲπενδομαι επι τη θυϲια και λιτουργια τηϲ πιϲτεωϲ ϋμων χαιρω παϲιν ϋμιν",
+          "translation": "But even if I am being poured out like a drink offering on the sacrifice and service coming from your faith, I am glad and rejoice with all of you.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ϲπενδομαι",
+              "note": "Libation metaphor; Paul's potential martyrdom as an offering."
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "source": "το δε αυτο και ϋμιϲ χαιρετε και ϲυγχαιρετε μοι",
+          "translation": "So you too should be glad and rejoice with me.",
+          "notes": []
+        },
+        {
+          "verse": 19,
+          "source": "ελπιζω δε εν κω  ιυ  τιμοθεον ταχεωϲ πεμψαι ϋμι  ϊνα καγω ευψυχω γνουϲ τα περι ϋμω",
+          "translation": "I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I receive news about you.",
+          "notes": []
+        },
+        {
+          "verse": 20,
+          "source": "ουδενα γαρ εχω ιϲοψυχον οϲτιϲ γνηϲιωϲ τα περι ϋμω  μεριμνηϲει",
+          "translation": "I have no one else like him, who will show genuine concern for your welfare.",
+          "notes": []
+        },
+        {
+          "verse": 21,
+          "source": "οι παντεϲ γαρ τα εαυτων ζητουϲιν ου τα ιυ  χυ",
+          "translation": "For everyone looks out for their own interests, not those of Jesus Christ.",
+          "notes": []
+        },
+        {
+          "verse": 22,
+          "source": "την δε δοκιμην αυτου γινωϲκετε οτι ωϲ πατρι τεκνο  ϲυν εμοι εδουλευϲεν ειϲ το ευαγγελιον",
+          "translation": "But you know that Timothy has proved himself, because as a son with his father he has served with me in the work of the gospel.",
+          "notes": []
+        },
+        {
+          "verse": 23,
+          "source": "τουτον μεν ουν ελπιζω πεμψαι ωϲ α  αφιδω τα περι εμε εξαυτηϲ",
+          "translation": "I hope, therefore, to send him as soon as I see how things go with me.",
+          "notes": []
+        },
+        {
+          "verse": 24,
+          "source": "πεποιθα δε εν κω  οτι και αυ τοϲ ┬ ταχεωϲ ελευϲομαι προϲ ϋμαϲ",
+          "translation": "And I am confident in the Lord that I myself will come soon.",
+          "notes": []
+        },
+        {
+          "verse": 25,
+          "source": "αναγκαιον δε ηγηϲαμην επαφροδιτον τον αδελφον και ϲυνεργο  και ϲυϲτρατιωτη  μου ϋμων δε αποϲτολον και λιτουργον τηϲ χρειαϲ μου πεμψαι προϲ ϋμαϲ",
+          "translation": "But I think it is necessary to send back to you Epaphroditus, my brother, co-worker and fellow soldier, who is also your messenger, whom you sent to take care of my needs.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "αποϲτολον",
+              "note": "Here means messenger or envoy, not apostle in technical sense."
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "source": "επειδη επιποθων ην πανταϲ ϋμαϲ ϊδειν και αδημονων διοτι ηκουϲατε οτι ηϲθενηϲεν",
+          "translation": "For he longs for all of you and is distressed because you heard he was ill.",
+          "notes": []
+        },
+        {
+          "verse": 27,
+          "source": "και γαρ ηϲθενηϲεν παραπληϲιον θανατω αλλα ο θϲ  ηλεηϲεν αυτον ουκ αυτον δε μονο  αλλα και εμε ϊνα μη λυπην επι λυπην ϲχω",
+          "translation": "Indeed he was ill, and almost died. But God had mercy on him, and not on him only but also on me, to spare me sorrow upon sorrow.",
+          "notes": []
+        },
+        {
+          "verse": 28,
+          "source": "ϲπουδαιοτερωϲ ουν επεμψα αυτο  ϊνα ειδοντεϲ αυτον παλιν χαρητε καγω αλυποτεροϲ ῶ",
+          "translation": "Therefore I am all the more eager to send him, so that when you see him again you may be glad and I may have less anxiety.",
+          "notes": []
+        },
+        {
+          "verse": 29,
+          "source": "προϲδεξαϲθαι ουν αυτον εν κω  μετα παϲηϲ χαραϲ και τουϲ τοιουτουϲ εντιμουϲ εχετε",
+          "translation": "So then, welcome him in the Lord with great joy, and honor people like him,",
+          "notes": []
+        },
+        {
+          "verse": 30,
+          "source": "οτι δια το εργον κυ  μεχρι θανατου ηγγιϲεν παραβολευϲαμενοϲ τη ψυχη ϊνα αναπληρωϲει το ϋμων ϋϲτερημα τηϲ προϲ εμε λιτουργιαϲ",
+          "translation": "because he almost died for the work of Christ. He risked his life to make up for the help you yourselves could not give me.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "παραβολευϲαμενοϲ",
+              "note": "Gambled or exposed himself to danger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "το λοιπον αδελφοι μου χαιρετε εν κω  ταυτα γραφειν υμι  εμοι μεν ουκ οκνηρον υμιν δε αϲφαλεϲ ·",
+          "translation": "Further, my brothers and sisters, rejoice in the Lord! It is no trouble for me to write the same things to you again, and it is a safeguard for you.",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "βλεπετε τουϲ κυναϲ βλεπετε τουϲ κακουϲ εργαταϲ βλεπετε την κατατομην",
+          "translation": "Watch out for those dogs, those evildoers, those mutilators of the flesh.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "κυναϲ",
+              "note": "Derogatory term for opponents, likely Judaizers insisting on circumcision."
+            },
+            {
+              "category": "wordplay",
+              "target": "κατατομην",
+              "note": "Play on περιτομη (circumcision); means 'mutilation' to mock."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "ημειϲ γαρ εϲμεν η περιτομη οι πνι θυ  λατρευοντεϲ και καυχωμενοι εν χω  ιυ  και ουκ ε  ϲαρκι πεποιθοτεϲ",
+          "translation": "For it is we who are the circumcision, we who serve God by his Spirit, who boast in Christ Jesus, and who put no confidence in the flesh—",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "καιπερ εγω εχων πεποιθηϲιν και εν ϲαρκι ει τιϲ δοκει αλλοϲ πεποιθεναι εν ϲαρκι πε μαλλον",
+          "translation": "though I myself have reasons for such confidence. If someone else thinks they have reasons to put confidence in the flesh, I have more:",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "περιτομη οκταημεροϲ εκ γενουϲ ιηλ φυληϲ βενιαμειν εβραιοϲ εξ εβραιων κατα νομον φαριϲαιοϲ",
+          "translation": "circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; in regard to the law, a Pharisee;",
+          "notes": []
+        },
+        {
+          "verse": 6,
+          "source": "κατα ζηλοϲ διωκων την εκκληϲιαν κατα δικαιοϲυνην την εν νομω γενομενοϲ αμεμπτοϲ",
+          "translation": "as for zeal, persecuting the church; as for righteousness based on the law, faultless.",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "ατινα ην μοι κερδη ταυτα ηγημαι δια τον χν  ζημια",
+          "translation": "But whatever were gains to me I now consider loss for the sake of Christ.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "αλλα μενουνγε ┬ ηγουμαι παντα ζημιαν ειναι δια το ϋπερεχον τηϲ γνωϲεωϲ χυ  ιυ  του κυ  μου δι ον τα παντα εζημιωθην και ηγουμαι ϲκυβαλα ┬ ϊνα χν  κερδηϲω",
+          "translation": "What is more, I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord, for whose sake I have lost all things. I consider them garbage, that I may gain Christ",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲκυβαλα",
+              "note": "Dung or rubbish; strong term for worthlessness."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "και ευρεθω εν αυτω μη εχω  δικαιοϲυνην εμην την εκ νομ(ου) αλλα την δια πιϲτεωϲ χυ  την εκ θυ  δικαιοϲυνην επι τη πιϲτι",
+          "translation": "and be found in him, not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "του γνωναι αυτον κ(αι) την δυναμιν τηϲ γνωϲεωϲ αυτου και ┬ κοινωνιαν ┬ παθηματων αυτου ϲυνμορφιζομενοϲ τω θανατω αυτου",
+          "translation": "I want to know Christ—yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death,",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "ει πωϲ καταντηϲω ειϲ την εξαναϲταϲι  την εκ νεκρων",
+          "translation": "and so, somehow, attaining to the resurrection from the dead.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ει πωϲ",
+              "note": "Expresses humble uncertainty, not doubt in resurrection."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ουχ οτι ηδη ελαβο  η ηδη τετελιωμαι διωκω δε ει ┬ καταλαβω εφ ω ει κατελημφθην ϋπο χυ  ιυ",
+          "translation": "Not that I have already obtained all this, or have already arrived at my goal, but I press on to take hold of that for which Christ Jesus took hold of me.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "αδελφοι εγω εμαυτον ουπω λογιζομαι κατειληφεναι εν δε τα μεν οπιϲω επιλανθανομενοϲ τοιϲ δε εμπροϲθεν επεκτινομενοϲ ·",
+          "translation": "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead,",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "επεκτινομενοϲ",
+              "note": "Athletic metaphor of stretching forward in a race."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "κατα ϲκοπον διωκω ειϲ το βραβιον τηϲ ανω κληϲεωϲ του θυ  εν χω  ιυ",
+          "translation": "I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "οϲοι ουν τελιοι τουτο ουν φρονουμε  και ει τι ετερωϲ φρονειτε και τουτο ο θϲ  ϋμιν αποκαλυψει",
+          "translation": "All of us, then, who are mature should take such a view of things. And if on some point you think differently, that too God will make clear to you.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "τελιοι",
+              "note": "Mature or perfect; here spiritual maturity."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "πλην ειϲ ο εφθαϲαμεν τω αυτω ϲτοιχειν ┬",
+          "translation": "Only let us live up to what we have already attained.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ϲτοιχειν",
+              "note": "Some mss add 'rule' or 'canon'; basic meaning is to walk in line.",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "ϲυνμιμητε μου γινεϲθε αδελφοι και ϲκοπειτε τουϲ ουτω περιπατουταϲ καθωϲ εχετε τυπον ημαϲ",
+          "translation": "Join together in following my example, brothers and sisters, and just as you have us as a model, keep your eyes on those who live as we do.",
+          "notes": []
+        },
+        {
+          "verse": 18,
+          "source": "πολλοι γαρ περιπατουϲιν ουϲ πολλακιϲ ελεγον υμιν νυν δε και κλαιω  λεγω τουϲ εχθρουϲ του ϲταυρου του χυ",
+          "translation": "For, as I have often told you before and now tell you again even with tears, many live as enemies of the cross of Christ.",
+          "notes": []
+        },
+        {
+          "verse": 19,
+          "source": "ων το τελοϲ απωλια ων ο θϲ  η κοιλια και η δοξα εν τη αιϲχυνη αυτων οι τα επιγια φρονουντεϲ",
+          "translation": "Their destiny is destruction, their god is their stomach, and their glory is in their shame. Their mind is set on earthly things.",
+          "notes": []
+        },
+        {
+          "verse": 20,
+          "source": "ημων γαρ το πολιτευμα εν ουρανοιϲ υπαρχει εξ ου και ϲωτηρα απεκδεχομεθα κν  ιν  χν",
+          "translation": "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ,",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "πολιτευμα",
+              "note": "Citizenship; resonates with Philippi as a Roman colony."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "source": "οϲ μεταϲχηματιϲει το ϲωμα τηϲ ταπινωϲεωϲ ημων ϲυνμορφον τω ϲωματι τηϲ δοξηϲ αυτου κατα την ενεργειαν του δυναϲθαι αυτον και ϋποταξαι αυτω τα παντα",
+          "translation": "who, by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "ωϲτε αδελφοι μου κ αγαπητοι και επιποθητοι χαρα και ϲτεφανοϲ μου ουτωϲ ϲτηκετε εν κω  αγαπητοι",
+          "translation": "Therefore, my brothers and sisters, you whom I love and long for, my joy and crown, stand firm in the Lord in this way, dear friends!",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "ευοδιαν παρακαλω και ϲυντυχην παρακαλω το αυτο φρονιν εν κω",
+          "translation": "I plead with Euodia and I plead with Syntyche to be of the same mind in the Lord.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "ναι ερωτω και ϲε γνηϲιε ϲυζυγε ϲυλαμβανου αυταιϲ αιτινεϲ εν τω ευαγγελιω ϲυνηθληϲαν μοι μετα και κλημεντοϲ και των ϲυνεργων μ(ου) και των λοιπων ων τα ονοματα ε  βιβλω ζωηϲ",
+          "translation": "Yes, and I ask you, my true companion, help these women since they have contended at my side in the cause of the gospel, along with Clement and the rest of my co-workers, whose names are in the book of life.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲυζυγε",
+              "note": "Yokefellow; possibly a proper name Syzygus or metaphor for a colleague."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "χαιρετε εν κω  παντοτε παλιν ερω χαιρετε",
+          "translation": "Rejoice in the Lord always. I will say it again: Rejoice!",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "το επιεικεϲ υμων γνωϲθητω παϲιν ανθρωποιϲ ο κϲ  εγγυϲ",
+          "translation": "Let your gentleness be evident to all. The Lord is near.",
+          "notes": []
+        },
+        {
+          "verse": 6,
+          "source": "μηδεν μεριμνατε αλλ εν παντι τη προϲευχη και τη δεηϲει μετ ευχαριϲτιαϲ τα αιτηματα ϋμων γνωριζεϲθω προϲ τον θν",
+          "translation": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "και η ειρηνη του θυ  η ϋπερεχουϲα παντα νουν φρουρηϲει ταϲ καρδιαϲ ϋμων και τα νοηματα υμων εν χω  ιυ",
+          "translation": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "φρουρηϲει",
+              "note": "Military term for guarding like a sentinel."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "το λοιπον αδελφοι οϲα εϲτιν αληθη οϲα ϲεμνα ˙ οϲα δικαια · οϲα αγνα · οϲα προϲφιλη · οϲα ευφημα · ει τιϲ αρετη και ει τιϲ επενοϲ ταυτα λογιζεϲθε",
+          "translation": "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "α και εμαθετε και παρελαβετε και ηκουϲατε και ειδετε εν εμοι ταυτα πραϲϲετε και ο θϲ  τηϲ ϊρηνηϲ εϲται μεθ υμων",
+          "translation": "Whatever you have learned or received or heard from me, or seen in me—put it into practice. And the God of peace will be with you.",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "εχαρην δε εν κω  μεγαλωϲ οτι ηδη ποτε ανεθαλετε το ϋπερ εμου φρονιν εφ ω και εφρονειτε ηκαιριϲθε δε",
+          "translation": "I rejoiced greatly in the Lord that at last you renewed your concern for me. Indeed, you were concerned, but you had no opportunity to show it.",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "ουχ οτι καθ υϲτερηϲιν λεγω εγω γαρ εμαθον εν οιϲ ειμι αυταρκηϲ ειναι",
+          "translation": "I am not saying this because I am in need, for I have learned to be content whatever the circumstances.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "οιδα και ταπινουϲθαι οιδα και περιϲϲευειν εν παντι και εν παϲι  μεμυημαι και χορταζεϲθαι και πινα  και περιϲϲευειν και ϋϲτεριϲθαι",
+          "translation": "I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "μεμυημαι",
+              "note": "Initiated into; like mystery religions, but here practical wisdom."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "παντα ϊϲχυω εν τω ενδυναμουντι με ┬",
+          "translation": "I can do all this through him who gives me strength.",
+          "notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Likely abbreviation for Χριστῷ (in Christ); some manuscripts include it explicitly.",
+"alt": "through Christ who strengthens me",
+"refs": ["NA28", "Byz"]
+}
+]
+},
+{
+"verse": 14,
+"source": "πλην καλωϲ εποιηϲατε ϲυγκοινωνηϲαντεϲ μου τη θλιψει",
+"translation": "Still, you did well by sharing in my distress.",
+"notes": []
+},
+{
+"verse": 15,
+"source": "οιδαται δε και υμιϲ φιλιππηϲιοι οτι εν αρχη του ευαγγελιου οτε εξηλθο απο μακαιδονιαϲ ουδεμια μοι εκκληϲια εκοινωνηϲεν ειϲ λογον δοϲεωϲ και λημψεωϲ ει μη ϋμιϲ μονοι",
+"translation": "You Philippians know that in the early days of the gospel, when I left Macedonia, no church partnered with me in giving and receiving except you alone.",
+"notes": [
+{
+"category": "idiom",
+"target": "λογον δοϲεωϲ και λημψεωϲ",
+"note": "Commercial terminology for an account of debits and credits; metaphor for mutual support.",
+"alt": "matter of giving and receiving",
+"refs": []
+}
+]
+},
+{
+"verse": 16,
+"source": "οτι και εν θεϲϲαλονικη και απαξ και διϲ ειϲ τη χριαν μοι επεμψατε",
+"translation": "For even when I was in Thessalonica, you sent help for my needs more than once.",
+"notes": []
+},
+{
+"verse": 17,
+"source": "ουχ οτι επιζητω το δομα αλλ επιζητω τον καρπον τον πλεοναζοντα ειϲ λογον ϋμων ·",
+"translation": "Not that I'm looking for the gift, but I'm looking for the profit that accrues to your account.",
+"notes": [
+{
+"category": "idiom",
+"target": "καρπον... ειϲ λογον ϋμων",
+"note": "Continues commercial metaphor; 'fruit' as interest or benefit in a spiritual sense.",
+"alt": "fruit that increases to your credit",
+"refs": []
+}
+]
+},
+{
+"verse": 18,
+"source": "απεχω δε παντα και περιϲϲευω πεπληρωμαι δεξαμενοϲ παρα επαφροδειτου τα παρ υμων οϲμη ευωδιαϲ θυϲιαν δεκτην ευαρεϲτον τω θω ",
+"translation": "I have received everything in full and have an abundance. I am fully supplied, having received from Epaphroditus the gifts you sent—a fragrant offering, an acceptable sacrifice, pleasing to God.",
+"notes": [
+{
+"category": "idiom",
+"target": "οϲμη ευωδιαϲ",
+"note": "Alludes to Old Testament sacrificial language, portraying the gift as a sweet-smelling aroma to God.",
+"alt": "sweet-smelling aroma",
+"refs": ["LXX"]
+}
+]
+},
+{
+"verse": 19,
+"source": "ο δε θϲ μου πληρωϲει παϲαν χριαν υμων κατα το πλουτοϲ αυτου ┬ δοξη ε χω ιυ ",
+"translation": "And my God will supply all your needs according to his riches in glory in Christ Jesus.",
+"notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Likely marker for ἐν (in); the phrase is 'in glory in Christ Jesus.'",
+"alt": null,
+"refs": ["NA28"]
+}
+]
+},
+{
+"verse": 20,
+"source": "τω δε θω κ(αι) πατρι ημων ω η δοξα ειϲ τουϲ αιωναϲ των αιωνων αμην",
+"translation": "To our God and Father be the glory forever and ever. Amen.",
+"notes": []
+},
+{
+"verse": 21,
+"source": "αϲπαϲαϲθαι παντα αγιον εν χω ιυ αϲπαζονται ϋμαϲ οι ϲυν εμοι αδελφοι",
+"translation": "Greet every saint in Christ Jesus. The brothers and sisters who are with me greet you.",
+"notes": []
+},
+{
+"verse": 22,
+"source": "αϲπαζονται ϋμαϲ παντεϲ οι αγιοι μαλιϲτα δε οι εκ τηϲ καιϲαροϲ οικιαϲ",
+"translation": "All the saints greet you, especially those from Caesar's household.",
+"notes": [
+{
+"category": "cultural",
+"target": "Caesar's household",
+"note": "Refers to imperial slaves or officials in Rome, indicating Christianity's reach into the Roman elite.",
+"alt": null,
+"refs": []
+}
+]
+},
+{
+"verse": 23,
+"source": "η χαριϲ του κυ ιυ χυ μετα του πνϲ ϋμων αμην",
+"translation": "The grace of the Lord Jesus Christ be with your spirit. Amen.",
+"notes": [
+{
+"category": "textual",
+"target": "του πνϲ ϋμων",
+"note": "Some manuscripts read 'with you all'; 'spirit' may emphasize inner being.",
+"alt": "with all of you",
+"refs": ["NA28", "Byz"]
+}
+]
+}
+]
+}
+]
+}

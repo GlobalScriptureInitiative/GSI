@@ -1,0 +1,422 @@
+{
+  "book": "Titus",
+  "language": "Greek",
+  "rendering": "2025 American English",
+  "config": {
+    "divine_name": null,
+    "proper_names": "standard",
+    "reading_level": null
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "παυλοϲ δουλοϲ θυ  αποϲτολοϲ δε ιυ  χυ  κατα πιϲτιν εκλεκτων θυ  και επιγνωϲιν αληθειαϲ τηϲ κατ ευϲεβειαν",
+          "translation": "Paul, a servant of God and an apostle of Jesus Christ—to promote the faith of God's chosen people and the knowledge of the truth that leads to godliness—",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "δουλοϲ",
+              "note": "Often translated 'slave' to emphasize total devotion in ancient context; 'servant' captures the service aspect in modern English.",
+              "alt": "slave"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "επ ελπιδι ζωηϲ αιωνιου ην επηγγειλατο ο αψευδηϲ θϲ  προ χρονων αιωνιων",
+          "translation": "in the hope of eternal life, which God, who never lies, promised before time began.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "εφανερωϲε  δε καιροιϲ ιδιοιϲ τον λογον αυτου εν κηρυγματι · ο επιϲτευθην εγω κατ επιταγην του ϲρϲ ημων θυ  ·",
+          "translation": "At the right time, he revealed his word through the preaching that I was entrusted with, by the command of God our Savior.",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "εφανερωϲε",
+              "note": "Aorist tense emphasizes the decisive act of revelation."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "τιτω γνηϲιω τεκνω κατα κοινην πιϲτι  χαριϲ και ειρηνη απο θυ  πρϲ και χυ  ιυ  του ϲρϲ ημων",
+          "translation": "To Titus, my true son in our shared faith: Grace and peace from God the Father and Christ Jesus our Savior.",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "τουτου χαριν απελιπον ϲε εν κρητη ϊνα τα λιποντα επιδιορθωϲη και καταϲτηϲηϲ κατα πολιν πρεϲβυτερουϲ ωϲ εγω ϲοι διεταξαμην",
+          "translation": "This is why I left you in Crete: so you could straighten out what was left unfinished and appoint elders in every town, as I directed you.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "Crete",
+              "note": "Island known in ancient times for its diverse, often unruly population; context implies organizational needs in new Christian communities."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "ει τιϲ εϲτι  ανηεγκλητοϲ μιαϲ γυναικοϲ ανηρ τεκνα εχων πιϲτα μη εν κατηγορια αϲωτιαϲ η ανυποτακτα ·",
+          "translation": "An elder must be blameless, faithful to his wife, with children who believe and aren't accused of being wild or rebellious.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "μιαϲ γυναικοϲ ανηρ",
+              "note": "Literally 'husband of one wife'; could imply monogamy or marital fidelity in a polygamous culture.",
+              "alt": "husband of one wife"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "δει γαρ τον επιϲκοπον ανεγκλητον ειναι ωϲ θυ  οικονομον μη αυθαδη μη οργιλον μη παροινον μη πληκτην μη αιϲχροκερδη",
+          "translation": "Since an overseer manages God's household, he must be blameless—not arrogant, not quick-tempered, not a drunk, not violent, not greedy for dishonest gain.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "επιϲκοπον",
+              "note": "Overseer or bishop; in early church, often interchangeable with elder (πρεϲβυτεροϲ)."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "αλλα φιλοξενον φιλαγαθον ϲωφρονα δικαιον οϲιον εγκρατη",
+          "translation": "Instead, he must be hospitable, a lover of good, self-controlled, upright, holy, and disciplined.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "αντεχομενον του κατα την διδαχην πιϲτου λογου ϊνα δυνατοϲ η και παρακαλειν εν τη διδαϲκαλια τη ϋγιαινουϲη και τουϲ αντιλεγονταϲ ελεγχι",
+          "translation": "He must hold firmly to the trustworthy message as it's been taught, so he can encourage others with sound teaching and refute those who oppose it.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ϋγιαινουϲη",
+              "note": "Literally 'healthy'; metaphor for doctrine that's wholesome and life-giving."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "source": "ειϲιν γαρ πολλοι ανυποτακτοι ματαιολογοι · και φρεναπαται · μαλιϲτα οι εκ τηϲ περιτομηϲ",
+          "translation": "For there are many rebellious people, full of empty talk and deception, especially those from the circumcision group.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "οι εκ τηϲ περιτομηϲ",
+              "note": "Refers to Jewish Christians insisting on circumcision and Jewish law for Gentiles."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "ουϲ δει επιϲτομιζειν οιτινεϲ ολουϲ οικουϲ ανατρεπουϲιν διδαϲκοτεϲ α μη δι αιϲχρου κερδουϲ χαριν",
+          "translation": "They must be silenced, because they're disrupting whole households by teaching things they shouldn't, all for dishonest gain.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "επιϲτομιζειν",
+              "note": "Literally 'to muzzle'; means to stop their speaking."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ειπεν δε τιϲ εξ αυτω  ϊδιοϲ αυτων προφητηϲ · κρητεϲ αει ψευϲται κακα θηρια γαϲτερεϲ αργαι",
+          "translation": "One of their own prophets has said it: 'Cretans are always liars, evil beasts, lazy gluttons.'",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "ϊδιοϲ αυτων προφητηϲ",
+              "note": "Refers to Epimenides, a Cretan poet (ca. 600 BCE); the quote was a known stereotype in antiquity."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "η μαρτυρια αυτη εϲτι  αληθηϲ · δι ην αιτιαν ελεγχε αυτουϲ αποτομωϲ ϊνα ϋγιαινωϲιν ┬ τη πιϲτι",
+          "translation": "This saying is true. So rebuke them sharply, so they will be sound in the faith",
+          "notes": []
+        },
+        {
+          "verse": 14,
+          "source": "μη προϲεχοντεϲ ϊουδαϊκοιϲ μυθοιϲ και εντολαιϲ ανθρωπων αποϲτρεφομενων την αληθιαν",
+          "translation": "and will pay no attention to Jewish myths or to the commands of those who reject the truth.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "παντα ┬ καθαρα τοιϲ καθαροιϲ τοιϲ δε μεμιαμμενοιϲ και απιϲτοιϲ ουδε  καθαρον αλλα μεμιανται αυτων και ο νουϲ και η ϲυνιδηϲιϲ",
+          "translation": "To the pure, all things are pure, but to those who are corrupted and unbelieving, nothing is pure. In fact, both their minds and consciences are corrupted.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "παντα καθαρα τοιϲ καθαροιϲ",
+              "note": "Echoes Jewish purity laws; here applied to moral and spiritual purity, not ritual."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "θν  ομολογουϲιν ειδεναι τοιϲ δε εργοιϲ αρνουνται βδελυκτοι οντεϲ και απιθειϲ ┬ προϲ παν εργον ┬ αδοκιμοι",
+          "translation": "They claim to know God, but by their actions they deny him. They are detestable, disobedient, and unfit for doing anything good.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "ϲυ δε α λαλει α πρεπι τη υγιαινουϲη διδαϲκαλια",
+          "translation": "But you must teach what aligns with sound doctrine.",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "πρεϲβυταϲ νηφαλιουϲ ειναι ϲεμνουϲ ϲωφροναϲ ϋγιαινονταϲ τη πιϲτι τη αγαπη τη υπομονη",
+          "translation": "Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love, and in endurance.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "πρεϲβυτιδαϲ ωϲαυτωϲ εν καταϲτηματι ϊεροπρεπιϲ μη διαβολουϲ μηδε οινω πολλω δεδουλωμεναϲ καλοδιδαϲκαλουϲ",
+          "translation": "Likewise, teach the older women to be reverent in how they live, not slanderers or addicted to much wine, but teachers of what is good.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "διαβολουϲ",
+              "note": "Literally 'devils'; means gossips or false accusers."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "ινα ϲωφρονιζουϲι ταϲ νεαϲ · φιλανδρουϲ ειναι φιλοτεκνουϲ",
+          "translation": "Then they can urge the younger women to love their husbands and children,",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "ϲωφροναϲ · αγναϲ οικουργουϲ αγαθαϲ ϋποταϲϲομεναι τοιϲ ϊδιοιϲ ανδραϲι  ϊνα μη ο λογοϲ του θυ  βλαϲφημηται",
+          "translation": "to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "οικουργουϲ",
+              "note": "Focuses on household management in ancient Greco-Roman context; not restricting women to home exclusively."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "τουϲ νεωτερουϲ ωϲαυτωϲ παρακαλει ϲωφρονει",
+          "translation": "Similarly, encourage the young men to be self-controlled.",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "περι παντα ϲεαυτο  τυπον παρεχομενοϲ καλων εργω  εν τη διδαϲκαλια αφθοριαν ϲεμνοτητα",
+          "translation": "In everything, set them an example by doing what is good. In your teaching, show integrity and seriousness,",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "λογον ϋγιη ακαταγνωϲτον ϊνα ο εξ εναντιαϲ εντραπη μηδεν εχω λεγειν περι ημων φαυλον",
+          "translation": "and soundness of speech that can't be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "δουλουϲ ϊδιοιϲ δεϲποταιϲ ϋποταϲϲεϲθαι εν παϲιν ευαρεϲτουϲ ειναι μη αντιλεγονταϲ ·",
+          "translation": "Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them,",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "δουλουϲ",
+              "note": "Refers to bondservants or slaves in Roman society; translation retains 'slaves' for historical accuracy, though modern contexts differ."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "source": "μη νοϲφιζομενουϲ αλλα παϲαν ┬ ενδικνυμενουϲ αγαθην ϊνα την διδαϲκαλιαν την του ϲρϲ ημων θυ  κοϲμωϲιν εν παϲιν",
+          "translation": "and not to steal from them, but to show they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.",
+          "notes": []
+        },
+        {
+          "verse": 11,
+          "source": "επεφανη γαρ η χαριϲ του θυ  ϲωτηροϲ παϲιν ανθρωποιϲ",
+          "translation": "For the grace of God has appeared, bringing salvation to all people.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "πεδευουϲα ημαϲ ϊνα αρνηϲαμενοι την αϲεβειαν και ταϲ κοϲμικαϲ επιθυμιαϲ ϲωφρονωϲ και δικαιωϲ και ευϲεβωϲ ζηϲωμεν εν τω νυν αιωνι",
+          "translation": "It trains us to reject godlessness and worldly passions, and to live self-controlled, upright, and godly lives in this present age,",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "πεδευουϲα",
+              "note": "Participle indicating ongoing training or discipline."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "προϲδεχομενοι την μακαρια  ελπιδα και επιφανειαν τηϲ δοξηϲ του μεγαλου θυ  και ϲωτηροϲ ημων χυ  ιυ",
+          "translation": "while we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ,",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "του μεγαλου θυ  και ϲωτηροϲ ημων χυ  ιυ",
+              "note": "Granville Sharp rule suggests 'great God and Savior' refers to Jesus; some interpret as separate (God and Jesus).",
+              "alt": "of the great God and our Savior Jesus Christ",
+              "refs": ["NA28"]
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "οϲ εδωκεν αυτον ϋπερ ημων ϊνα λυτρωϲηται ημαϲ απο παϲηϲ ανομιαϲ και καθαριϲη εαυτω λαον περιουϲιον ζηλωτην καλων εργων",
+          "translation": "who gave himself for us to redeem us from all lawlessness and to purify for himself a people that are his very own, eager to do what is good.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "ταυτα λαλει και παρακαλει και ελεγχε μετα παϲηϲ επιταγηϲ μηδιϲ ϲου περιφρονειτω",
+          "translation": "These are the things you should teach. Encourage and rebuke with all authority. Don't let anyone look down on you.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "ϋπομιμνηϲκε αυτουϲ αρχαιϲ εξουϲιαιϲ ϋποταϲϲεϲθαι πιθαρχιν προϲ πα  εργον αγαθουϲ ετοιμουϲ ειναι ·",
+          "translation": "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good,",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "μηδενα βλαϲφημιν αμαχουϲ ειναι επιεικειϲ παϲαν ενδικνυϲθαι ϲπουδη  τα προϲ πανταϲ αθρωπουϲ",
+          "translation": "to slander no one, to be peaceable and considerate, and always to be gentle toward everyone.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "ημεν γαρ ποτε και ημειϲ · ανοητοι · απιθειϲ · πλανωμενοι δουλευοντεϲ εν επιθυμιαιϲ και ηδοναιϲ ποικιλαιϲ εν κακια και φθονω διαγοτεϲ ϲτυγητοι μειϲουντεϲ αλληλουϲ",
+          "translation": "At one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another.",
+          "notes": []
+        },
+        {
+          "verse": 4,
+          "source": "οτε δε η χρηϲτοτηϲ και η φιλανθρωπια επεφανη του ϲρϲ ημων θυ",
+          "translation": "But when the kindness and love of God our Savior appeared,",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "ουκ εξ εργων των ε  δικαιοϲυνη α εποιηϲαμεν ημειϲ αλλα κατα το αυτου ελεοϲ εϲωϲεν ημαϲ δια λουτρου παλινγενεϲιαϲ και ανακαινωϲεωϲ πνϲ αγιου",
+          "translation": "he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "λουτρου παλινγενεϲιαϲ",
+              "note": "Likely refers to baptism as a symbol of spiritual rebirth.",
+              "alt": "washing of regeneration"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "ου εξεχεεν εφ ημαϲ πλουϲιωϲ δια ιυ  χυ  του ϲρϲ ημων",
+          "translation": "whom he poured out on us generously through Jesus Christ our Savior,",
+          "notes": []
+        },
+        {
+          "verse": 7,
+          "source": "ϊνα δικαιωθεντοϲ τη εκεινου χαριτι κληρονομοι γενηθωμεν κατ ελπιδα ζωηϲ αιωνιου ·",
+          "translation": "so that, having been justified by his grace, we might become heirs having the hope of eternal life.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "πιϲτοϲ ο λογοϲ · και περι τουτων βουλομαι ϲε διαβεβεουϲθαι ϊνα φροντιζωϲιν καλων εργων προϊϲταϲθαι οι πεπιϲτευκοτεϲ θω  ταυτα εϲτιν καλα και ωφελιμα τοιϲ ανθρωποιϲ",
+          "translation": "This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "μωραϲ δε ζητηϲιϲ και γενεαλογιαϲ και εριν και μαχαϲ νομικαϲ περιιϲταϲο ειϲιν γαρ ανωφελιϲ και ματαιοι",
+          "translation": "But avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless.",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "αιρετικον ανθρωπο  μετα μιαν και δευτεραν νουθεϲιαν παραιτου",
+          "translation": "Warn a divisive person once, and then warn them a second time. After that, have nothing to do with them.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "αιρετικον",
+              "note": "Originally 'one who chooses' (heresy); here means factious or divisive person."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "ειδωϲ οτι εξεϲτραπται ο τοιουτοϲ και αμαρτανει ων αυτοκατακριτοϲ",
+          "translation": "You may be sure that such people are warped and sinful; they are self-condemned.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "οταν πεμψω αρτεμαν προϲ ϲε η τυχικον ϲπουδαϲον ελθειν προϲ με ειϲ νεικοπολιν εκει γαρ κεκρικα παραχιμαϲαι",
+          "translation": "As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "νεικοπολιν",
+              "note": "Likely Nicopolis in Epirus, a common wintering spot in the Roman era."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "ζηναν τον νομικον και απολλω  ϲπουδαιωϲ προπεμψον ϊνα μηδεν αυτοιϲ λιπη",
+          "translation": "Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need.",
+          "notes": []
+        },
+        {
+          "verse": 14,
+          "source": "μανθανετωϲαν δε και οι ημετεροι καλων εργων προϊϲταϲθαι ειϲ ταϲ αναγκαιαϲ χριαϲ ϊνα μη ωϲιν ακαρποι ·",
+          "translation": "Our people must learn to devote themselves to doing what is good, in order to provide for urgent needs and not live unproductive lives.",
+          "notes": []
+        },
+        {
+          "verse": 15,
+          "source": "αϲπαζονται ϲε οι μετ εμου παντεϲ αϲπαϲαι τουϲ φιλουνταϲ ημαϲ εν πιϲτι η χαριϲ μετα παντων υμων ┬",
+          "translation": "Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.",
+          "notes": [
+            {
+              "category": "translation",
+              "target": "┬",
+              "note": "Possible transcription artifact; ignored in translation as it doesn't affect meaning."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

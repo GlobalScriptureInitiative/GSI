@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Bible Initiative</title>
+    <link rel="stylesheet" href="css/styleo.css">
+</head>
+<body class="light-mode">
+    <header>
+        <h1>Verses Viewer</h1>
+        <button id="theme-toggle">Toggle Dark/Light Mode</button>
+        <input type="text" id="search-input" placeholder="Search verses or notes...">
+        <select id="filter-select">
+            <option value="">All Notes</option>
+            <option value="lexical">Lexical</option>
+            <option value="syntax">Syntax</option>
+            <option value="cultural">Cultural</option>
+            <option value="idiom">Idiom</option>
+        </select>
+        <select id="book-select">
+            <option value="">Select Book</option>
+        </select>
+        <select id="chapter-select" disabled>
+            <option value="">Select Chapter</option>
+        </select>
+        <select id="verse-select" disabled>
+            <option value="">Select Verse</option>
+        </select>
+    </header>
+    <main id="content">
+        <h2 id="book-name"></h2> <!-- Book name will be displayed here -->
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>

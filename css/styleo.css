@@ -1,0 +1,296 @@
+/* Base styles */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Container for content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 30px 20px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.dark-mode header {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+header h1 {
+    margin: 0 0 20px 0;
+    font-size: 2.5em;
+    font-weight: normal;
+    text-align: center;
+}
+
+#book-name {
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.dark-mode #book-name {
+    color: #aaa;
+}
+
+/* Controls container */
+.controls {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Input and select styles */
+header input, 
+header select, 
+header button {
+    padding: 12px 16px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: white;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.dark-mode header input,
+.dark-mode header select,
+.dark-mode header button {
+    background-color: #444;
+    border-color: #555;
+    color: white;
+}
+
+header input:focus,
+header select:focus {
+    outline: none;
+    border-color: #4a90e2;
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+.dark-mode header input:focus,
+.dark-mode header select:focus {
+    border-color: #6ab7ff;
+    box-shadow: 0 0 0 3px rgba(106, 183, 255, 0.2);
+}
+
+/* Theme toggle button */
+#theme-toggle {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+#theme-toggle:hover {
+    background-color: #357abd;
+    transform: translateY(-1px);
+}
+
+#theme-toggle:active {
+    transform: translateY(0);
+}
+
+.dark-mode #theme-toggle {
+    background-color: #6ab7ff;
+}
+
+.dark-mode #theme-toggle:hover {
+    background-color: #4a90e2;
+}
+
+/* Light and dark mode styles */
+.light-mode {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+}
+
+/* Content area */
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Verse item styles */
+.verse-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s, transform 0.2s;
+}
+
+.dark-mode .verse-item {
+    background-color: #2a2a2a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.verse-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+}
+
+.dark-mode .verse-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Verse reference */
+.verse-item h3 {
+    margin: 0 0 12px 0;
+    color: #4a90e2;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.dark-mode .verse-item h3 {
+    color: #6ab7ff;
+}
+
+/* Verse text */
+.verse-item p {
+    margin: 0 0 10px 0;
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+/* Notes container */
+.notes-container {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+}
+
+.dark-mode .notes-container {
+    border-top-color: #444;
+}
+
+/* Note styles */
+.note {
+    margin: 8px 0;
+    padding: 8px 12px;
+    background-color: #f0f4f8;
+    border-left: 3px solid #4a90e2;
+    border-radius: 4px;
+    font-size: 0.95em;
+    color: #555;
+}
+
+.dark-mode .note {
+    background-color: rgba(106, 183, 255, 0.1);
+    border-left-color: #6ab7ff;
+    color: #bbb;
+}
+
+.note em {
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* Empty state */
+#content p:only-child {
+    text-align: center;
+    font-size: 1.2em;
+    color: #666;
+    margin-top: 50px;
+}
+
+.dark-mode #content p:only-child {
+    color: #999;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2em;
+    }
+    
+    #book-name {
+        font-size: 1.5em;
+    }
+    
+    .controls {
+        grid-template-columns: 1fr;
+    }
+    
+    .verse-item {
+        padding: 15px;
+    }
+    
+    .verse-item h3 {
+        font-size: 1em;
+    }
+    
+    .verse-item p {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 20px 15px;
+    }
+    
+    header h1 {
+        font-size: 1.75em;
+    }
+    
+    .verse-item {
+        margin-bottom: 20px;
+        padding: 12px;
+    }
+    
+    .note {
+        padding: 6px 10px;
+        font-size: 0.9em;
+    }
+}
+
+/* Loading state */
+.loading {
+    text-align: center;
+    padding: 50px;
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Selection colors */
+::selection {
+    background-color: #4a90e2;
+    color: white;
+}
+
+.dark-mode ::selection {
+    background-color: #6ab7ff;
+    color: #1a1a1a;
+}

@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header input, header select, header button {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%; /* Make inputs full width */
+    max-width: 300px; /* Limit max width */
+}
+
+.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.chapter {
+    margin: 20px 0;
+}
+
+.verse {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    header {
+        align-items: center; /* Center items on small screens */
+    }
+
+    header input, header select, header button {
+        width: 100%; /* Full width on small screens */
+        max-width: none; /* Remove max width on small screens */
+    }
+
+    .chapter {
+        margin: 15px 0; /* Adjust chapter margin */
+    }
+
+    .verse {
+        padding: 8px; /* Adjust verse padding */
+    }
+}
