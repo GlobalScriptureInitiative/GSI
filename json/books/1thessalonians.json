@@ -1,0 +1,1014 @@
+{
+"book": "1 Thessolonians",
+"language": "Greek",
+"rendering": "2025 American English",
+"config": {
+"divine_name": null,
+"proper_names": null,
+"reading_level": null
+},
+"chapters": [
+{
+"chapter": 1,
+"verses": [
+{
+"verse": 1,
+"source": "1:1 παυλοϲ και ϲιλουανοϲ και τιμοθεοϲ τη εκκληϲια θεϲϲαλονικεων εν θω πατρι και κω ιυ χω χαριϲ ϋμιν και ειρηνη απο θυ πρϲ ημων και κυ ιυ χυ ",
+"translation": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+"notes": []
+},
+{
+"verse": 2,
+"source": "2 ευχαριϲτουμεν τω θω παντοτε περι παντων ϋμων μνιαν ┬ ποιουμενοι επι των προϲευχων ημων αδειαλιπτωϲ",
+"translation": "We always thank God for all of you, mentioning you constantly in our prayers,",
+"notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Possible scribal mark or line break in source; ignored in translation.",
+"alt": null
+}
+]
+},
+{
+"verse": 3,
+"source": "3 μνημονευοντεϲ ϋμων του εργου τηϲ πιϲτεωϲ και του κοπου τηϲ αγαπηϲ και τηϲ ϋπομονηϲ τηϲ ελπιδοϲ του κυ ημων ιυ χυ εμπροϲθεν του θυ και πατροϲ ημων",
+"translation": "remembering before our God and Father your work of faith, labor of love, and steadfast hope in our Lord Jesus Christ.",
+"notes": []
+},
+{
+"verse": 4,
+"source": "4 ειδοτεϲ αδελφοι ηγαπημενοι ϋπο του θυ την εκλογη ϋμων",
+"translation": "We know, brothers and sisters loved by God, that he has chosen you,",
+"notes": []
+},
+{
+"verse": 5,
+"source": "5 οτι το ευαγγελιον του θυ ημω ουκ εγενηθη ειϲ ϋμαϲ εν λογω μονον αλλα και εν δυναμι και εν πνι αγιω και πληροφορια πολλη καθωϲ οιδατε οιοι εγενηθημεν υμιν δι ϋμαϲ",
+"translation": "because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of people we proved to be among you for your sake.",
+"notes": []
+},
+{
+"verse": 6,
+"source": "6 και υμειϲ μιμητε ημων εγενηθητε και του κυ δεξαμενοι τον λογο εν θλιψει πολλη μετα χαραϲ πνϲ αγιου",
+"translation": "And you became imitators of us and of the Lord, having received the word in much affliction with the joy of the Holy Spirit,",
+"notes": []
+},
+{
+"verse": 7,
+"source": "7 ωϲτε γενεϲθαι ϋμαϲ τυπουϲ παϲιν τοιϲ πιϲτευουϲιν εν τη μακαιδονια και εν τη αχαϊα",
+"translation": "so that you became an example to all the believers in Macedonia and Achaia.",
+"notes": []
+},
+{
+"verse": 8,
+"source": "8 αφ υμων ┬ εξηχηται ο λογοϲ του θυ ου μονον εν τη μακαιδονια και εν τη αχαϊα αλλα παντι τοπω η πιϲτιϲ ϋμων η προϲ τον θν εξεληλυθε ωϲτε μη χριαν εχιν ημαϲ λαλειν τι",
+"translation": "For the Lord's word has sounded forth from you not only in Macedonia and Achaia, but in every place your faith in God has gone out, so that we have no need to say anything.",
+"notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Possible scribal mark or line break in source; ignored in translation.",
+"alt": null
+}
+]
+},
+{
+"verse": 9,
+"source": "9 αυτοι γαρ περι ημων απαγγελλουϲιν οποιαν ειϲοδον εϲχομεν προϲ ϋμαϲ και πωϲ επεϲτρεψατε προϲ το θν απο των ειδωλων δουλευειν θω ζωντι και αληθινω",
+"translation": "For they themselves report what kind of reception we had from you, and how you turned to God from idols to serve the living and true God,",
+"notes": []
+},
+{
+"verse": 10,
+"source": "10 και αναμενι τον υν αυτου εκ των ουρανων ον ηγειρεν εκ των νεκρων ιν τον ρυομενον ημαϲ εκ τηϲ οργηϲ τηϲ ερχομενηϲ",
+"translation": "and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.",
+"notes": []
+}
+]
+},
+{
+"chapter": 2,
+"verses": [
+{
+"verse": 1,
+"source": "2:1 αυτοι γαρ οιδαται αδελφοι την ειϲοδον ημων την προϲ ϋμαϲ οτι ου κενη γεγονεν",
+"translation": "You yourselves know, brothers and sisters, that our visit to you was not in vain.",
+"notes": []
+},
+{
+"verse": 2,
+"source": "2 αλλα προπαθοντεϲ και ϋβριϲθεντεϲ καθωϲ οιδαται εν φιλιπποιϲ επαρρηϲιαϲαμεθα εν τω θω ημων λαληϲαι προϲ ϋμαϲ το ευαγγελιον του θυ εν πολλω αγωνι",
+"translation": "But though we had already suffered and been mistreated in Philippi, as you know, we had the boldness in our God to speak to you the gospel of God amid much opposition.",
+"notes": []
+},
+{
+"verse": 3,
+"source": "3 η γαρ παρακληϲιϲ ημων ουκ εκ πλανηϲ ουδε εξ ακαθαρϲιαϲ ουδε εν δολω",
+"translation": "For our appeal does not come from error or impurity or any attempt to deceive.",
+"notes": []
+},
+{
+"verse": 4,
+"source": "4 αλλα καθωϲ δεδοκιμαϲμεθα ϋπο του θυ πιϲτευθηναι το ευαγγελιον ουτωϲ λαλουμεν ουχ ωϲ ανθρωποιϲ αρεϲκοντεϲ αλλα ┬ θω τω δοκιμαζοτι ταϲ καρδιαϲ ημων",
+"translation": "But just as we have been approved by God to be entrusted with the gospel, so we speak, not to please people, but to please God who tests our hearts.",
+"notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Possible scribal mark or line break in source; ignored in translation.",
+"alt": null
+}
+]
+},
+{
+"verse": 5,
+"source": "5 ουτε γαρ ποτε εν λογω κολακιαϲ εγενηθημεν καθωϲ οιδατε ουτε εν προφαϲει πλεονεξιαϲ θϲ μαρτυϲ",
+"translation": "As you know, we never used flattery nor put on a mask to cover up greed—God is our witness.",
+"notes": []
+},
+{
+"verse": 6,
+"source": "6 ουτε ζητουντεϲ εξ ανθρωπων δοξαν ουτε αφ υμων ουτε απ αλλων",
+"translation": "We were not seeking praise from people, not from you or anyone else,",
+"notes": []
+},
+{
+"verse": 7,
+"source": "7 δυναμενοι εν βαρει ειναι ωϲ χυ αποϲτολοι αλλα εγενηθημε νηπιοι εν μεϲω ϋμων ωϲ αν τροφοϲ θαλπη τα εαυτηϲ τεκνα",
+"translation": "even though as apostles of Christ we could have asserted our authority. Instead, we were like young children among you. Just as a nursing mother cares for her children,",
+"notes": [
+{
+"category": "textual",
+"target": "νηπιοι",
+"note": "Some manuscripts read 'gentle' (ηπιοι) instead of 'infants' (νηπιοι); translation follows source as 'young children'.",
+"alt": "gentle"
+}
+]
+},
+{
+"verse": 8,
+"source": "8 ουτωϲ ομειρομενοι ϋμων ευδοκουμεν μεταδουναι υμιν ου μονο το ευαγγελιον του θυ αλλα και ταϲ εαυτων ψυχαϲ διοτι αγαπητοι ημιν εγενηθητε",
+"translation": "so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well.",
+"notes": []
+},
+{
+"verse": 9,
+"source": "9 μνημονευετε γαρ αδελφοι τον κοπο ημων και τον μοχθον νυκτοϲ και ημεραϲ εργαζομενοι προϲ το μη επιβαρηϲαι τινα ϋμων εκηρυξαμεν ϋμιν το ευαγγελιον του θυ ",
+"translation": "Surely you remember, brothers and sisters, our toil and hardship; we worked night and day in order not to be a burden to anyone while we preached the gospel of God to you.",
+"notes": []
+},
+{
+"verse": 10,
+"source": "10 ϋμειϲ μαρτυρεϲ και ο θϲ ωϲ οϲιωϲ και δικαιωϲ και αμεμπτωϲ ϋμιν τοιϲ πιϲτευουϲιν εγενηθημεν",
+"translation": "You are witnesses, and so is God, of how holy, righteous, and blameless we were among you who believed.",
+"notes": []
+},
+{
+"verse": 11,
+"source": "11 καθαπερ οιδατε ωϲ ενα εκαϲτον ϋμων ωϲ πατηρ τεκνα εαυτου",
+"translation": "For you know that we dealt with each of you as a father deals with his own children,",
+"notes": []
+},
+{
+"verse": 12,
+"source": "12 παρακαλουντεϲ και παραμυθουμενοι και μαρτυρομενοι ειϲ το περιπατειν ϋμαϲ αξιωϲ του θυ του καλεϲαντοϲ ϋμαϲ ειϲ την εαυτου βαϲιλειαν και δοξα ",
+"translation": "encouraging, comforting, and urging you to live lives worthy of God, who calls you into his kingdom and glory.",
+"notes": []
+},
+{
+"verse": 13,
+"source": "13 και δια τουτο και ημειϲ ευχαριϲτουμεν τω θω αδιαλιπτωϲ οτι παραλαβοντεϲ λογον ακοηϲ παρ ημων του θυ εδεξαϲθε ου λογον ανθρωπω αλλα καθωϲ ┬ εϲτι λογον θυ οϲ και ενεργειται εν ημι τοιϲ πιϲτευουϲιν",
+"translation": "And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe.",
+"notes": [
+{
+"category": "textual",
+"target": "┬",
+"note": "Possible scribal mark or line break in source; ignored in translation.",
+"alt": null
+}
+]
+},
+{
+"verse": 14,
+"source": "14 ϋμιϲ γαρ μιμηται εγενηθητε αδελφοι των εκκληϲιων του θυ εδεξαϲθε ου λογον ανθρωπων αλλα καθωϲ εϲτιν λογον θυ οϲ και ενεργιται εν ημιν τοιϲ πιϲτευουϲιν ϋμειϲ γαρ μιμηθητε εγενηθητε αδελφοι των εκκληϲιων του θυ των ουϲων εν τη ϊουδαια εν χω ιυ οτι τα αυτα επαθετε και ϋμιϲ ϋπο των ιδιω ϲυμφυλετων καθωϲ και αυτοι υπο των ϊουδαιων",
+"translation": "For you, brothers and sisters, became imitators of God's churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews,",
+"notes": [
+{
+"category": "textual",
+"target": "repeated text",
+"note": "Source appears to have duplication of phrases from verse 13; translated as coherent unit, omitting repetition for clarity.",
+"alt": null
+}
+]
+},
+{
+"verse": 15,
+"source": "15 τω και τον κν αποκτινατων ιν και τουϲ προφηταϲ και ημαϲ εκδιωξαντων και θω μη αρεϲκοντων κ(αι) παϲιν ανοιϲ εναντιων",
+"translation": "who killed the Lord Jesus and the prophets and also drove us out. They displease God and are hostile to everyone",
+"notes": []
+},
+{
+"verse": 16,
+          "source": "κωλυοντων ημαϲ τοιϲ εθνεϲιν λαληϲαι ϊνα ϲωθωϲι  ειϲ το αναπληρωϲαι αυτων ταϲ αμαρτιαϲ παντοτε εφθαϲε  δε επ αυτουϲ η οργη ειϲ τελοϲ",
+          "translation": "by trying to stop us from speaking to the Gentiles so they can be saved. This fills up the full measure of their sins all the time. But wrath has come on them at last.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "εφθαϲε δε επ αυτουϲ η οργη ειϲ τελοϲ",
+              "note": "Some manuscripts read 'has come upon them to the uttermost'; refers to divine judgment, possibly alluding to historical events like Jerusalem's destruction.",
+              "alt": "wrath has overtaken them completely"
+            },
+            {
+              "category": "cultural",
+              "target": "τοιϲ εθνεϲιν",
+              "note": "Gentiles means non-Jews, a key term in first-century Jewish-Christian context for outsiders to Israel's covenant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "ημειϲ δε αδελφοι απορφανιϲθεντεϲ αφ υμων προϲ καιρον ωραϲ προϲωπω ου καρδια περιϲϲοτερωϲ εϲπουδαϲαμεν το προϲωπον υμων ϊδειν ε  πολλη επιθυμια",
+          "translation": "But we, friends, after being orphaned from you for a short while—in person, not in heart—were all the more eager, with intense longing, to see your faces.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "απορφανιϲθεντεϲ",
+              "note": "Literally 'orphaned'; conveys deep emotional separation, like family loss in ancient kinship terms.",
+              "alt": "torn away from you"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "source": "διοτι ηθεληϲαμεν ελθειν προϲ υμαϲ εγω μεν παυλοϲ και απαξ και διϲ και ενεκοψε  ημαϲ ο ϲαταναϲ",
+          "translation": "Because we wanted to come to you—I, Paul, tried more than once—but Satan blocked us.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ενεκοψε ημαϲ ο ϲαταναϲ",
+              "note": "'Satan' refers to the adversary in Jewish-Christian tradition; 'blocked' implies hindrance, possibly through circumstances or opposition.",
+              "alt": "Satan stopped us"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "source": "τιϲ γαρ ημων ελπιϲ η χαρα η ϲτεφανοϲ καυχηϲεωϲ ┬ ουχι και ϋμειϲ εμπροϲθεν του κυ  ημων ιυ  εν τη αυτου παρουϲια",
+          "translation": "For what is our hope or joy or crown we boast about? Isn't it you, in the presence of our Lord Jesus at his coming?",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ ουχι και ϋμειϲ",
+              "note": "The symbol ┬ may indicate a textual variant; some manuscripts include 'or' or adjust phrasing for emphasis.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "ϲτεφανοϲ καυχηϲεωϲ",
+              "note": "Crown of boasting alludes to athletic victory wreaths in Greco-Roman culture, metaphor for pride in achievement.",
+              "alt": "crown we take pride in"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "ϋμειϲ γαρ εϲται η δοξα ημω  και ┬ χαρα",
+          "translation": "Yes, you are our glory and joy.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ χαρα",
+              "note": "┬ may mark a variant or emphasis; text is consistent across major manuscripts.",
+              "alt": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "διο μηκετι ϲτεγοντεϲ ηυδοκηϲαμεν καταλιφθηναι εν αθηναιϲ μονοι",
+          "translation": "So when we could stand it no longer, we thought it best to be left alone in Athens.",
+          "notes": []
+        },
+        {
+          "verse": 2,
+          "source": "και επεμψαμεν τιμοθεον τον αδελφο  ημων και διακονο  του θυ  εν τω ευαγγελιω του χυ  ειϲ το ϲτηριξαι ϋμαϲ και παρακαλεϲαι ϋπερ τηϲ πιϲτεωϲ υμων",
+          "translation": "We sent Timothy, our brother and God's coworker in the good news about the Messiah, to strengthen and encourage you in your faith.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "διακονο  του θυ",
+              "note": "Some manuscripts read 'servant of God' or 'coworker'; reflects role in early church ministry.",
+              "alt": "God's servant"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "το μηδενα ϲαινεϲθαι εν ταιϲ θλιψεϲι ταυταιϲ αυτοι γαρ οιδατε οτι ειϲ τουτο κειμεθα",
+          "translation": "so that no one would be shaken by these troubles. You yourselves know that we're destined for this.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲαινεϲθαι",
+              "note": "Means 'shaken' or 'disturbed'; like a dog wagging its tail, but here negative connotation of instability.",
+              "alt": "unsettled"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "και γαρ οτε προϲ ϋμαϲ ημεν προελεγομεν υμιν οτι μελλομεν θλιβεϲθαι καθωϲ κ(αι) εγενετο και οιδατε",
+          "translation": "In fact, when we were with you, we kept telling you we'd face persecution. And it happened, just as you know.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "κ(αι)",
+              "note": "Parentheses indicate possible variant; 'and' is included in most manuscripts.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "source": "δια τουτο καγω μηκετι ϲτεγων επεμψα ειϲ το γνωναι τη  πιϲτιν υμων μη πωϲ επειραϲεν υμαϲ ο > πειραζων και ειϲ κενον γενηται ο κοποϲ ημων",
+          "translation": "That's why, when I could stand it no longer, I sent to find out about your faith. I was afraid the tempter had tempted you and our work would be for nothing.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ο > πειραζων",
+              "note": "> may indicate insertion; refers to Satan as the tempter.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "αρτι δε ελθοτοϲ τιμοθεου προϲ ημαϲ αφ υμων και ευαγγελιϲαμενου ημιν την υμων πιϲτιν και την αγαπη  υμων και οτι εχετε μνιαν ημων αγα>θην παντοτε επιποθουντεϲ ημαϲ ϊδειν καθαπερ και ημειϲ ϋμαϲ",
+          "translation": "But now Timothy has just come back to us from you and brought good news about your faith and love. He said you always remember us kindly and long to see us, just as we long to see you.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "αγα>θην",
+              "note": "> may mark variant or correction; 'good' remembrance.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "δια τουτο παρεκληθημεν αδελφοι εφ υμιν επι παϲη τη αναγκη και θλιψει ημων δια τηϲ ϋμων πιϲτεωϲ",
+          "translation": "That's why, friends, in all our distress and persecution, we were encouraged about you through your faith.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "οτι νυν ζωμε  εαν υμειϲ ϲτηκητε εν κω ",
+          "translation": "For now we really live, since you're standing firm in the Lord.",
+          "notes": []
+        },
+        {
+          "verse": 9,
+          "source": "τινα γαρ ευχαριϲτιαν δυναμεθα τω κω  ανταποδουναι περι ϋμων επι παϲη τη χαρα η χαιρομεν δι υμαϲ εμπροϲθεν του κυ  ημων",
+          "translation": "How can we thank God enough for you in return for all the joy we feel because of you before our God?",
+          "notes": []
+        },
+        {
+          "verse": 10,
+          "source": "νυκτοϲ και ημεραϲ ϋπερεκπεριϲϲου δεομενοι > ειϲ το ϊδειν ϋμων το προϲωπον και > καταρτιϲαι τα ϋϲτερηματα τηϲ πιϲτεωϲ υμων",
+          "translation": "Night and day we pray most earnestly to see you face to face and supply what's lacking in your faith.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> ειϲ το ϊδειν... > καταρτιϲαι",
+              "note": "> may indicate infinitival purpose clauses; standard in manuscripts.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "αυτοϲ δε ο θϲ  και πατηρ ημω  και ο κϲ  ημων ιϲ  κατευθυναι την οδο  υμων προϲ ϋμαϲ",
+          "translation": "Now may our God and Father himself, and our Lord Jesus, direct our way to you.",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "κατευθυναι",
+              "note": "Singular verb with compound subject emphasizes unity of God and Jesus in early Christian prayer.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ϋμαϲ δε ο κϲ  πλεοναϲαι και περιϲϲευϲαι τη αγαπη ειϲ αλληλουϲ και ειϲ πανταϲ καθαπερ και ημειϲ ειϲ ϋμαϲ",
+          "translation": "And may the Lord make you increase and overflow in love for one another and for everyone, just as we do for you.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "ειϲ το ϲτηριξαι ϋμων ταϲ καρδιαϲ αμεμπτουϲ εν αγιωϲυνη εμπροϲθε  του θυ  και πατροϲ > ημων εν τη παρουϲια του κυ  ημων ιυ  μετα παντων των αγιων αυτου αμην",
+          "translation": "so that he may strengthen your hearts to be blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones. Amen.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> ημων",
+              "note": "> may mark 'our' as variant; some manuscripts omit or adjust.",
+              "alt": ""
+            },
+            {
+              "category": "lexical",
+              "target": "των αγιων αυτου",
+              "note": "Holy ones could mean angels or saints; context suggests eschatological entourage.",
+              "alt": "his saints"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "λοιπον ουν αδελφοι ερωτωμεν ϋμαϲ και παρακαλουμε  εν τω κω  ιυ  καθωϲ παρελαβετε παρ ημων το πωϲ δει ϋμαϲ περιπατειν κ(αι) αρεϲκειν θω  καθωϲ και περιπατειτε ϊνα περιϲϲευητε μαλλον",
+          "translation": "Finally then, friends, we ask and urge you in the Lord Jesus: as you received from us how you ought to walk and please God—just as you're doing—do so more and more.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "κ(αι)",
+              "note": "Parentheses indicate variant; 'and' is present in most texts.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "περιπατειν",
+              "note": "Walk means conduct one's life, a common Jewish metaphor for behavior.",
+              "alt": "live"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "οιδατε γαρ τιναϲ παραγγελιαϲ δεδωκαμεν υμιν δια του κυ  ιυ ",
+          "translation": "You know what instructions we gave you through the Lord Jesus.",
+          "notes": []
+        },
+        {
+          "verse": 3,
+          "source": "τουτο γαρ εϲτιν θελημα του θυ  ο αγιαϲμοϲ > ϋμων απεχεϲθαι ϋμαϲ απο τηϲ πορνειαϲ",
+          "translation": "For this is God's will: your sanctification, that you abstain from sexual immorality.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> ϋμων",
+              "note": "> may indicate 'your' as possessive variant.",
+              "alt": ""
+            },
+            {
+              "category": "lexical",
+              "target": "πορνειαϲ",
+              "note": "Broad term for sexual immorality in Greco-Roman context, including adultery, prostitution, and forbidden relations.",
+              "alt": "fornication"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "ειδεναι εκαϲτον ϋμων το εαυτου ϲκευοϲ κταϲθαι εν αγιαϲμω και εν τιμη",
+          "translation": "that each of you know how to control your own body in holiness and honor.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ϲκευοϲ",
+              "note": "Vessel can mean body or wife; disputed, but context favors self-control over one's body.",
+              "alt": "acquire his own wife"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "source": "μη εν παθει επιθυμιαϲ καθα>περ και τα εθνη τα μη ειδοτα τον θν ",
+          "translation": "not in lustful passion like the Gentiles who don't know God.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "καθα>περ",
+              "note": "> may mark variant spelling or emphasis.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "το μη ϋπερβαινειν και πλεονεκτειν εν τω πραγματι > τον αδελφον αυτου διοτι εκδικοϲ ┬ κϲ  > περι παντων τουτων καθωϲ και προειπαμεν υμιν και διεμαρτυραμεθα",
+          "translation": "that no one transgress and exploit their brother or sister in this matter, because the Lord is an avenger in all these things, as we already told you and solemnly warned.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ κϲ  > περι",
+              "note": "┬ and > may indicate variants; some manuscripts have 'the Lord is avenger'.",
+              "alt": ""
+            },
+            {
+              "category": "cultural",
+              "target": "πλεονεκτειν εν τω πραγματι",
+              "note": "Exploit in the matter likely refers to sexual or business wrongdoing in close community.",
+              "alt": "defraud in this area"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "ου γαρ εκαλεϲεν ημαϲ ο θϲ  επι ακαθαρϲια αλλ εν αγιαϲμω",
+          "translation": "For God didn't call us to impurity but to holiness.",
+          "notes": []
+        },
+        {
+          "verse": 8,
+          "source": "τοιγαρουν ο αθε>των ουκ ανθρωπο  αθετει αλλα τον θν  τον και διδοντα το πνευμα αυτου το αγιον ειϲ ϋμαϲ",
+          "translation": "Therefore, anyone who rejects this rejects not humans but God, who gives his Holy Spirit to you.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "αθε>των",
+              "note": "> may mark variant; 'rejects' or 'disregards'.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "περι δε τηϲ φιλαδελφιαϲ ου χρειαν εχετε γραφειν υμιν > αυτοι γαρ ϋμειϲ θεοδιδακτοι εϲτε ειϲ το αγαπαν αλληλουϲ",
+          "translation": "Now about love for the family of believers: you don't need us to write to you, for you yourselves are taught by God to love one another.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> αυτοι γαρ ϋμειϲ",
+              "note": "> may indicate emphasis or variant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "source": "και γαρ ποιειτε αυτο ειϲ πανταϲ τουϲ αδελφουϲ ϋμων εν ολη τη > μακεδονια παρακαλουμεν δε υμαϲ αδελφοι περιϲϲευειν μαλλον",
+          "translation": "And in fact, you do this toward all the believers throughout Macedonia. But we urge you, friends, to do so more and more.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> μακεδονια",
+              "note": "> may mark geographical variant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "και φιλοτιμειϲθαι ηϲυχαζειν και πραϲϲειν τα ϊδια και εργαζεϲθαι ταιϲ ϊδιαιϲ χερϲιν υμων καθωϲ υμι  παρηγγιλαμεν",
+          "translation": "and to make it your ambition to live quietly, mind your own business, and work with your hands, just as we instructed you.",
+          "notes": []
+        },
+        {
+          "verse": 12,
+          "source": "ϊνα περιπατητε ευϲχημονωϲ προϲ τουϲ εξω και μηδενοϲ χρειαν εχητε",
+          "translation": "so that you may behave decently toward outsiders and not depend on anyone.",
+          "notes": []
+        },
+        {
+          "verse": 13,
+          "source": "ου θελομεν δε ϋμαϲ αγνοειν αδελφοι περι των κοιμω>μενων ϊνα μη λυ πηϲθε καθωϲ κ(αι) οι λοιποι οι μη εχοντεϲ ελπιδα",
+          "translation": "We don't want you to be uninformed, friends, about those who have fallen asleep, so you don't grieve like the rest who have no hope.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "κοιμω>μενων... κ(αι)",
+              "note": "> and ( ) may indicate variants; 'fallen asleep' is euphemism for death.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "κοιμωμενων",
+              "note": "Fallen asleep means died, common in Jewish and Christian texts for temporary state before resurrection.",
+              "alt": "who are dead"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "ει γαρ επιϲτευομεν οτι ιϲ  απε>θανεν και ανε>ϲτη ουτωϲ και ο θϲ  τουϲ κοιμη>θενταϲ δια του ιυ  αξει ϲυν αυτω",
+          "translation": "For if we believe that Jesus died and rose again, in the same way God will bring with him those who have fallen asleep through Jesus.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "απε>θανεν... ανε>ϲτη... κοιμη>θενταϲ",
+              "note": "> marks may indicate aorist tenses or variants.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "source": "τουτο γαρ ϋμιν λεγομεν εν λογω κυ  οτι ημειϲ οι ζωτεϲ οι περιλειπομενοι ειϲ την παρουϲιαν του κυ  ου μη φθαϲωμε  τουϲ κοιμηθεν>ταϲ",
+          "translation": "We tell you this in the Lord's word: we who are still alive, who are left until the Lord's coming, will certainly not precede those who have fallen asleep.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "κοιμηθεν>ταϲ",
+              "note": "> may mark participle variant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "οτι αυτοϲ ο κϲ  εν κελευϲματι ε  φωνη αρχαγγελου και εν ϲαλπιγγι θυ  καταβηϲεται απ ουρανου > και οι νεκροι εν χω  αναϲτηϲονται πρωτον",
+          "translation": "For the Lord himself will come down from heaven with a command, with the archangel's voice, and with God's trumpet. And the dead in the Messiah will rise first.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> και οι νεκροι",
+              "note": "> may indicate clause connection.",
+              "alt": ""
+            },
+            {
+              "category": "cultural",
+              "target": "ϲαλπιγγι θυ",
+              "note": "God's trumpet echoes Jewish apocalyptic imagery, like shofar in end-times.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "source": "επειτα ημειϲ οι ζωντεϲ οι περιλιπο>μενοι αμα ϲυν αυτοιϲ αρπαγηϲομεθα εν νεφελαιϲ ειϲ απαντηϲιν > του κυ  ειϲ αερα και ουτωϲ παντοτε ϲυν κω  εϲομεθα",
+          "translation": "Then we who are still alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we'll always be with the Lord.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "περιλιπο>μενοι... > του κυ",
+              "note": "> marks may indicate variants in participles or phrases.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "αρπαγηϲομεθα",
+              "note": "Caught up means suddenly taken; basis for 'rapture' concept in later theology.",
+              "alt": "snatched up"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "source": "ωϲτε παρακαλειτε αλληλουϲ εν τοιϲ λογοιϲ τουτοιϲ",
+          "translation": "So encourage one another with these words.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "source": "περι δε των χρονων και των καιρων αδελφοι ου χρειαν εχετε του γραφεϲθαι υμιν",
+          "translation": "Now about the times and seasons, friends: you don't need us to write to you.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "χρονων και των καιρων",
+              "note": "Times and seasons refers to eschatological timing, echoing prophetic language.",
+              "alt": "dates and times"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "source": "αυτοι γαρ ακρειβωϲ οιδατε οτι > ημερα κυ  ωϲ κλεπτηϲ εν νυκτι ουτωϲ ερχεται",
+          "translation": "You know very well that the day of the Lord will come like a thief in the night.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> ημερα κυ",
+              "note": "> may mark phrase variant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "source": "οταν ┬ λεγωϲιν ειρηνη και αϲφαλεια τοτε αιφνιδιοϲ αυτοιϲ επιϲταται ολεθροϲ ωϲπερ η ωδειν τη εν γαϲτρι εχουϲη και ου μη εκφυγωϲι ",
+          "translation": "While people are saying, 'Peace and safety,' destruction will come on them suddenly, like labor pains on a pregnant woman, and they won't escape.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ λεγωϲιν",
+              "note": "┬ may indicate variant; some manuscripts have 'when they say'.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "ωϲπερ η ωδειν",
+              "note": "Like labor pains: sudden, inevitable onset, common biblical metaphor for judgment.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "source": "υμειϲ δε αδελφοι ουκ εϲται εν ϲκοτει ϊνα η ημερα υμαϲ ωϲ κλεπτηϲ καταλαβη",
+          "translation": "But you, friends, aren't in darkness so that this day should surprise you like a thief.",
+          "notes": []
+        },
+        {
+          "verse": 5,
+          "source": "παντεϲ γαρ υμειϲ υϊοι φωτοϲ εϲται και υϊοι ημεραϲ ουκ εϲμεν νυκτοϲ ουδε ϲκοτουϲ",
+          "translation": "You are all children of light and children of the day. We don't belong to the night or to darkness.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "υϊοι φωτοϲ",
+              "note": "Children of light: Semitic idiom for those characterized by light, meaning truth and goodness.",
+              "alt": "people of the light"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "source": "αρα ουν μη καθευδωμεν ωϲ ┬ οι λοιποι αλλα γρηγορωμεν και νηφωμε ",
+          "translation": "So then, let's not sleep like the others do, but let's stay alert and sober.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ωϲ ┬ οι λοιποι",
+              "note": "┬ may mark variant; 'like the rest'.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "source": "οι γαρ καθευδοντεϲ νυκτοϲ κα>θευδουϲιν και > οι μεθυϲκομε>νοι νυκτοϲ μεθυουϲιν",
+          "translation": "For those who sleep, sleep at night, and those who get drunk, get drunk at night.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "κα>θευδουϲιν... > οι μεθυϲκομε>νοι",
+              "note": "> marks may indicate repetitions or variants.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "source": "ημειϲ δε ημεραϲ οντεϲ νηφωμε  ενδυϲαμενοι > θωρακα πιϲτεωϲ ┬ και περικεφαλαιαν ελπιδα ϲωτηριαϲ ·",
+          "translation": "But since we belong to the day, let's be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> θωρακα... ┬ και",
+              "note": "> and ┬ may indicate variants in armor metaphor.",
+              "alt": ""
+            },
+            {
+              "category": "idiom",
+              "target": "θωρακα... περικεφαλαιαν",
+              "note": "Armor imagery draws from Roman soldier gear and Isaiah 59, symbolizing spiritual protection.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "source": "οτι ουκ εθετο η>μαϲ ο θϲ  ειϲ οργη  αλλα ειϲ περιποιηϲιν ϲωτηριαϲ δια του κυ  ημω  ιυ  χυ ",
+          "translation": "For God didn't appoint us to suffer wrath but to receive salvation through our Lord Jesus the Messiah.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "η>μαϲ",
+              "note": "> may mark 'us' variant.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "source": "του αποθανοντοϲ περι ημω  ϊνα ειτε γρηγορωμεν ειτε καθευδωμεν αμα ϲυν αυτω ζηϲωμεν",
+          "translation": "who died for us so that, whether we're awake or asleep, we may live together with him.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "γρηγορωμεν... καθευδωμεν",
+              "note": "Awake or asleep here means alive or dead, contrasting with earlier metaphorical use.",
+              "alt": "alert or sleeping"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "source": "διο παρακαλειτε > αλληλουϲ και οικοδομειτε ειϲ τον > ενα καθωϲ και ποιειτε",
+          "translation": "So encourage one another and build each other up, just as you're doing.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "> αλληλουϲ... > ενα",
+              "note": "> may indicate reciprocal pronouns or variants.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "source": "ερωτωμεν δε ϋμαϲ αδελφοι ειδεναι τουϲ κοπιωνταϲ εν υμιν και προϊϲτανομενουϲ ϋμων εν κω  και νουθετουνταϲ ϋμαϲ",
+          "translation": "We ask you, friends, to acknowledge those who work hard among you, who lead you in the Lord, and who admonish you.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "προϊϲτανομενουϲ",
+              "note": "Means 'lead' or 'care for'; in early church context, refers to overseeing without formal hierarchy.",
+              "alt": "who are over you"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "source": "και ηγειϲθαι αυτουϲ υπερεκπεριϲϲου εν αγαπη δια το εργον αυτων και ει>ρηνευετε εν αυτοιϲ",
+          "translation": "Hold them in the highest regard in love because of their work. And live in peace among yourselves.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "ει>ρηνευετε εν αυτοιϲ",
+              "note": "> may indicate variant; some manuscripts read 'be at peace with them' or adjust for emphasis.",
+              "alt": "be at peace with one another"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "source": "παρακαλουμεν δε ϋμαϲ αδελφοι νουθετειτε τουϲ ατακτουϲ παραμυθειϲθε τουϲ ολιγοψυχουϲ αντεχεϲθε των αϲθενων μακροθυμειτε προϲ πανταϲ",
+          "translation": "We urge you, friends, warn those who are idle, encourage the disheartened, support the weak, be patient with everyone.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ατακτουϲ",
+              "note": "Idle or disorderly; in military context, means out of rank, here likely lazy or disruptive in community.",
+              "alt": "unruly"
+            },
+            {
+              "category": "lexical",
+              "target": "ολιγοψυχουϲ",
+              "note": "Disheartened or timid; literally 'small-souled,' referring to those lacking courage.",
+              "alt": "fainthearted"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "source": "ορατε μη τιϲ κακον αντι κακου τινι αποδοι αλλα παντοτε το αγαθον διωκετε ┬ ειϲ αλληλουϲ και > ειϲ πανταϲ",
+          "translation": "Make sure no one repays evil for evil to anyone, but always pursue what is good for one another and for all.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ ειϲ αλληλουϲ και > ειϲ πανταϲ",
+              "note": "┬ and > may mark variants; some manuscripts include 'both' or adjust reciprocity.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "source": "παντοτε χαιρετε ·",
+          "translation": "Always rejoice.",
+          "notes": []
+        },
+        {
+          "verse": 17,
+          "source": "αδιαλιπτωϲ προϲευχεϲθε",
+          "translation": "Pray continually.",
+          "notes": []
+        },
+        {
+          "verse": 18,
+          "source": "εν παντι ευχαριϲτειτε τουτο γαρ θελημα του θυ  εν χω  ιυ  ειϲ ϋμαϲ",
+          "translation": "Give thanks in every circumstance, for this is God's will for you in the Messiah Jesus.",
+          "notes": []
+        },
+        {
+          "verse": 19,
+          "source": "το πνα μη ϲβεννυτε",
+          "translation": "Don't quench the Spirit.",
+          "notes": [
+            {
+              "category": "idiom",
+              "target": "ϲβεννυτε",
+              "note": "Quench like extinguishing a fire; metaphor for suppressing spiritual gifts or enthusiasm.",
+              "alt": "don't put out the Spirit's fire"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "source": "προφητειαϲ μη εξουθενειτε",
+          "translation": "Don't despise prophecies.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "προφητειαϲ",
+              "note": "Prophecies refer to inspired utterances in early Christian gatherings, not just prediction but exhortation.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "source": "παντα ┬ δο>κιμαζετε το καλο  κατεχετε",
+          "translation": "Test everything; hold on to what is good.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "┬ δο>κιμαζετε",
+              "note": "┬ and > may indicate variants; some manuscripts add 'but' or adjust structure.",
+              "alt": "examine everything carefully"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "source": "απο πατοϲ ειδουϲ πονηρου απεχεϲθε",
+          "translation": "Abstain from every form of evil.",
+          "notes": [
+            {
+              "category": "lexical",
+              "target": "ειδουϲ",
+              "note": "Form or appearance; can mean kind or outward look, advising avoidance of anything evil-looking.",
+              "alt": "every kind of evil"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "source": "αυτοϲ δε ο θϲ  τηϲ ειρηνηϲ αγιαϲαι ϋμαϲ ολοτελειϲ και ολοκληρον υμων το πνα και η ψυχη και το ϲωμα αμεμπτωϲ εν τη παρουϲια του κυ  ημων ιυ  χυ  τηρηθειη",
+          "translation": "May the God of peace himself sanctify you completely, and may your entire spirit, soul, and body be kept blameless at the coming of our Lord Jesus the Messiah.",
+          "notes": [
+            {
+              "category": "syntax",
+              "target": "ολοτελειϲ... ολοκληρον",
+              "note": "Emphasizes wholeness; tripartite view of human (spirit, soul, body) not necessarily strict anthropology but rhetorical completeness.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "source": "πιϲτοϲ ο καλων υμαϲ οϲ και ποιηϲει",
+          "translation": "The one who calls you is faithful, and he will do it.",
+          "notes": []
+        },
+        {
+          "verse": 25,
+          "source": "αδελφοι προϲευχεϲθε περι ημων",
+          "translation": "Friends, pray for us.",
+          "notes": []
+        },
+        {
+          "verse": 26,
+          "source": "αϲπαϲαϲθε τουϲ αδελφουϲ πανταϲ εν φιληματι αγιω",
+          "translation": "Greet all the friends with a holy kiss.",
+          "notes": [
+            {
+              "category": "cultural",
+              "target": "φιληματι αγιω",
+              "note": "Holy kiss was a common greeting in ancient Mediterranean cultures, symbolizing family affection in the church.",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "source": "ορκιζω υμαϲ το  κν  αναγνωϲθη>ναι την επιϲτολη  παϲι τοιϲ ┬ αδελφοιϲ",
+          "translation": "I charge you by the Lord to have this letter read to all the friends.",
+          "notes": [
+            {
+              "category": "textual",
+              "target": "αναγνωϲθη>ναι... ┬ αδελφοιϲ",
+              "note": "> and ┬ may indicate variants; some manuscripts specify 'holy brothers' or 'all the saints'.",
+              "alt": "to all the holy brothers"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "source": "η χαριϲ του κυ  ημων ιυ  χυ  μεθ υμων αμην",
+          "translation": "The grace of our Lord Jesus the Messiah be with you. Amen.",
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

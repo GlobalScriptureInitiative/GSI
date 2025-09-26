@@ -18,7 +18,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const bookFiles = [
         'titus.json',
         'philippians.json',
-        'colossians.json'
+        'colossians.json',
+        '1thessalonians.json',
+        '2thessalonians.json'
         // Add more book files here as needed
     ];
 
